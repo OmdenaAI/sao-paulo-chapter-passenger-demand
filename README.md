@@ -2,7 +2,7 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# Monitoring and Predicting Subway Passenger Demand in São Paulo City Using Machine Learning
 
 
 ## Contribution Guidelines
