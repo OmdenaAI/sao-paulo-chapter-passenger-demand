@@ -1,7 +1,7 @@
 import pandas as pd
 
 #Setting up the file
-original_dataset='Entrada de Passageiros por Linha - 2022_7.csv'
+original_dataset='src/tasks/task_1_data_collection_preprocessing/Entrada de Passageiros por Linha - 2022_7.csv'
 
 #Extraction by station
 
