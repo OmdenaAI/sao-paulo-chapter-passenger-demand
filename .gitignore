@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+src/tasks/.DS_Store
+src/.DS_Store
+.DS_Store
