@@ -13,7 +13,7 @@ An example of the increase in passenger growth on the Blue Line:
 
 Regarding passenger entry, we saw an increase in people at all stations on the blue, red, green, and silver lines.
 
-https://github.com/OmdenaAI/sao-paulo-chapter-passenger-demand/blob/main/src/tasks/task_1_data_collection_preprocessing/RData/entrada_estacao.png
+![](https://github.com/omdenaai/sao-paulo-chapter-passenger-demand/blob/main/src/tasks/task_1_data_collection_preprocessing/rdata/entrada_estacao.png)
 
 The stations that saw the greatest increase in demand were:
 
