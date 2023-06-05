@@ -18,3 +18,9 @@ Regarding passenger entry, we saw an increase in people at all stations on the b
 The stations that saw the greatest increase in demand were:
 
 ![](https://github.com/OmdenaAI/sao-paulo-chapter-passenger-demand/blob/main/src/tasks/task_1_data_collection_preprocessing/RData/top10_variacoes.png)
+
+The questions I am seeking to answer are:
+
+- If more people are using the subway, has the number of vehicles on the streets decreased?
+
+- Are stations located in poorer neighborhoods in higher demand than those in wealthier areas?
