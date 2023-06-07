@@ -4,9 +4,6 @@
 ## Check its own README.md in the folder
 
 
-### Entrada de Passageiros por Linha - 2022_7
-> There is a script for combining the four tables in one dataset - data_wrangling_endo.py
-
 ### Resources web scraping script
 > Script to get the resources file names, links and type files directly from the main data source (public metro lines) and from private companies metro lines - data_resources_scrapping.py ; private_resources_list.csv, public_resources_list.csv
 
