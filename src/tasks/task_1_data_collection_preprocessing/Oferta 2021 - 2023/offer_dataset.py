@@ -23,10 +23,10 @@ def load_offers():
                         )
 
     data_raw.rename(columns = {'Mês': 'month',
-                            'Linha 1-Azul ': 'blue',
-                            'Linha 2-Verde': 'green',
-                            'Linha 3-Vermelha': 'red',
-                            'Linha 15-Prata ': 'silver'}, inplace=True)
+                            'Linha 1-Azul ': '1',
+                            'Linha 2-Verde': '2',
+                            'Linha 3-Vermelha': '3',
+                            'Linha 15-Prata ': '15'}, inplace=True)
 
     data_raw['month'] = data_raw['month'].str.replace('*', '')
 
@@ -55,10 +55,10 @@ def load_offers():
                         )
 
     data_raw.rename(columns = {'Mês': 'month',
-                            'Linha 1-Azul ': 'blue',
-                            'Linha 2-Verde': 'green',
-                            'Linha 3-Vermelha': 'red',
-                            'Linha 15-Prata ': 'silver'}, inplace=True)
+                            'Linha 1-Azul ': '1',
+                            'Linha 2-Verde': '2',
+                            'Linha 3-Vermelha': '3',
+                            'Linha 15-Prata ': '15'}, inplace=True)
 
     data_raw['month'] = data_raw['month'].str.replace('*', '')
 
@@ -87,10 +87,10 @@ def load_offers():
                         )
 
     data_raw.rename(columns = {'Mês': 'month',
-                            'Linha 1-Azul ': 'blue',
-                            'Linha 2-Verde': 'green',
-                            'Linha 3-Vermelha': 'red',
-                            'Linha 15-Prata ': 'silver'}, inplace=True)
+                            'Linha 1-Azul ': '1',
+                            'Linha 2-Verde': '2',
+                            'Linha 3-Vermelha': '3',
+                            'Linha 15-Prata ': '15'}, inplace=True)
 
     data_raw['month'] = data_raw['month'].str.replace('*', '')
 
