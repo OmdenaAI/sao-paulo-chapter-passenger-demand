@@ -1,5 +1,4 @@
 month,line,station,dpea
-2021-01-01,1,Tucuruvi ,36.0
 2021-01-01,1,Parada Inglesa ,7.0
 2021-01-01,1,Jardim São Paulo-Ayrton Senna,6.0
 2021-01-01,1,Santana ,33.0
@@ -9,224 +8,225 @@ month,line,station,dpea
 2021-01-01,1,Tiradentes ,7.0
 2021-01-01,1,Luz,70.0
 2021-01-01,1,São Bento,36.0
-2021-01-01,1,Sé2,119.0
-2021-01-01,1,Jabaquara,46.0
-2021-01-01,1,São Joaquim ,12.0
-2021-01-01,1,Vergueiro ,15.0
-2021-01-01,1,Paraíso¹,49.0
-2021-01-01,1,Ana Rosa¹,40.0
-2021-01-01,1,Vila Mariana ,10.0
-2021-01-01,1,Santa Cruz,60.0
-2021-01-01,1,Praça da Árvore ,9.0
-2021-01-01,1,Saúde ,16.0
-2021-01-01,1,São Judas ,9.0
-2021-01-01,1,Conceição ,15.0
+2021-01-01,1,Sé,119.0
 2021-01-01,1,Japão-Liberdade ,12.0
+2021-01-01,1,São Joaquim ,12.0
+2021-01-01,1,Tucuruvi ,36.0
+2021-01-01,1,Paraíso,49.0
+2021-01-01,1,Jabaquara,46.0
+2021-01-01,1,Conceição ,15.0
+2021-01-01,1,São Judas ,9.0
+2021-01-01,1,Saúde ,16.0
+2021-01-01,1,Vergueiro ,15.0
+2021-01-01,1,Santa Cruz,60.0
+2021-01-01,1,Vila Mariana ,10.0
+2021-01-01,1,Ana Rosa,40.0
+2021-01-01,1,Praça da Árvore ,9.0
 2021-02-01,1,Tiradentes ,9.0
-2021-02-01,1,Armênia ,15.0
-2021-02-01,1,Portuguesa-Tietê ,29.0
-2021-02-01,1,Carandiru ,6.0
 2021-02-01,1,Jabaquara,48.0
-2021-02-01,1,Jardim São Paulo-Ayrton Senna,6.0
-2021-02-01,1,Parada Inglesa ,7.0
 2021-02-01,1,Tucuruvi ,37.0
-2021-02-01,1,Luz,74.0
+2021-02-01,1,Parada Inglesa ,7.0
+2021-02-01,1,Jardim São Paulo-Ayrton Senna,6.0
 2021-02-01,1,Santana ,35.0
+2021-02-01,1,Carandiru ,6.0
+2021-02-01,1,Portuguesa-Tietê ,29.0
+2021-02-01,1,Armênia ,15.0
+2021-02-01,1,Luz,74.0
 2021-02-01,1,São Bento,36.0
-2021-02-01,1,Sé2,125.0
-2021-02-01,1,Japão-Liberdade ,12.0
 2021-02-01,1,São Judas ,9.0
-2021-02-01,1,Saúde ,17.0
-2021-02-01,1,Praça da Árvore ,10.0
-2021-02-01,1,Santa Cruz,65.0
-2021-02-01,1,Conceição ,16.0
-2021-02-01,1,Ana Rosa¹,43.0
-2021-02-01,1,Paraíso¹,53.0
-2021-02-01,1,Vergueiro ,17.0
+2021-02-01,1,Japão-Liberdade ,12.0
 2021-02-01,1,São Joaquim ,14.0
+2021-02-01,1,Vergueiro ,17.0
+2021-02-01,1,Paraíso,53.0
+2021-02-01,1,Ana Rosa,43.0
 2021-02-01,1,Vila Mariana ,10.0
-2021-03-01,1,Luz,57.0
-2021-03-01,1,Tucuruvi ,30.0
-2021-03-01,1,Parada Inglesa ,6.0
-2021-03-01,1,Jardim São Paulo-Ayrton Senna,5.0
-2021-03-01,1,Santana ,28.0
-2021-03-01,1,Carandiru ,5.0
-2021-03-01,1,Portuguesa-Tietê ,23.0
-2021-03-01,1,Armênia ,12.0
+2021-02-01,1,Santa Cruz,65.0
+2021-02-01,1,Praça da Árvore ,10.0
+2021-02-01,1,Saúde ,17.0
+2021-02-01,1,Sé,125.0
+2021-02-01,1,Conceição ,16.0
 2021-03-01,1,Tiradentes ,7.0
+2021-03-01,1,Armênia ,12.0
+2021-03-01,1,Portuguesa-Tietê ,23.0
+2021-03-01,1,Luz,57.0
+2021-03-01,1,Santana ,28.0
+2021-03-01,1,Jardim São Paulo-Ayrton Senna,5.0
+2021-03-01,1,Parada Inglesa ,6.0
+2021-03-01,1,Tucuruvi ,30.0
+2021-03-01,1,Carandiru ,5.0
 2021-03-01,1,São Bento,23.0
-2021-03-01,1,Conceição ,12.0
+2021-03-01,1,Ana Rosa,35.0
 2021-03-01,1,Japão-Liberdade ,9.0
-2021-03-01,1,São Joaquim ,12.0
-2021-03-01,1,Vergueiro ,14.0
-2021-03-01,1,Paraíso¹,43.0
-2021-03-01,1,Ana Rosa¹,35.0
-2021-03-01,1,Vila Mariana ,8.0
-2021-03-01,1,Santa Cruz,52.0
-2021-03-01,1,Praça da Árvore ,8.0
-2021-03-01,1,Saúde ,13.0
-2021-03-01,1,São Judas ,7.0
-2021-03-01,1,Sé2,100.0
+2021-03-01,1,Sé,100.0
 2021-03-01,1,Jabaquara,40.0
-2021-04-01,1,Tiradentes ,7.0
-2021-04-01,1,Armênia ,12.0
-2021-04-01,1,Portuguesa-Tietê ,22.0
-2021-04-01,1,Luz,58.0
-2021-04-01,1,Santana ,27.0
-2021-04-01,1,Jardim São Paulo-Ayrton Senna,4.0
+2021-03-01,1,São Judas ,7.0
+2021-03-01,1,Saúde ,13.0
+2021-03-01,1,Praça da Árvore ,8.0
+2021-03-01,1,Conceição ,12.0
+2021-03-01,1,Vila Mariana ,8.0
+2021-03-01,1,Paraíso,43.0
+2021-03-01,1,Vergueiro ,14.0
+2021-03-01,1,São Joaquim ,12.0
+2021-03-01,1,Santa Cruz,52.0
 2021-04-01,1,Parada Inglesa ,5.0
-2021-04-01,1,Tucuruvi ,29.0
+2021-04-01,1,Jardim São Paulo-Ayrton Senna,4.0
+2021-04-01,1,Santana ,27.0
 2021-04-01,1,Carandiru ,5.0
+2021-04-01,1,Portuguesa-Tietê ,22.0
+2021-04-01,1,Armênia ,12.0
+2021-04-01,1,Tiradentes ,7.0
+2021-04-01,1,Luz,58.0
 2021-04-01,1,São Bento,23.0
-2021-04-01,1,Ana Rosa¹,33.0
-2021-04-01,1,Japão-Liberdade ,9.0
-2021-04-01,1,Jabaquara,39.0
-2021-04-01,1,Sé2,96.0
-2021-04-01,1,São Judas ,7.0
-2021-04-01,1,Saúde ,13.0
-2021-04-01,1,Praça da Árvore ,8.0
-2021-04-01,1,Conceição ,12.0
-2021-04-01,1,Vila Mariana ,8.0
-2021-04-01,1,Paraíso¹,42.0
+2021-04-01,1,Sé,96.0
 2021-04-01,1,São Joaquim ,11.0
-2021-04-01,1,Santa Cruz,50.0
 2021-04-01,1,Vergueiro ,13.0
-2021-05-01,1,Tucuruvi ,34.0
+2021-04-01,1,Paraíso,42.0
+2021-04-01,1,Ana Rosa,33.0
+2021-04-01,1,Praça da Árvore ,8.0
+2021-04-01,1,Saúde ,13.0
+2021-04-01,1,São Judas ,7.0
+2021-04-01,1,Conceição ,12.0
+2021-04-01,1,Jabaquara,39.0
+2021-04-01,1,Tucuruvi ,29.0
+2021-04-01,1,Japão-Liberdade ,9.0
+2021-04-01,1,Vila Mariana ,8.0
+2021-04-01,1,Santa Cruz,50.0
+2021-05-01,1,São Joaquim ,13.0
+2021-05-01,1,Parada Inglesa ,6.0
 2021-05-01,1,Jardim São Paulo-Ayrton Senna,5.0
 2021-05-01,1,Santana ,32.0
+2021-05-01,1,Carandiru ,6.0
 2021-05-01,1,Portuguesa-Tietê ,26.0
 2021-05-01,1,Armênia ,14.0
 2021-05-01,1,Tiradentes ,8.0
 2021-05-01,1,Luz,68.0
 2021-05-01,1,São Bento,31.0
-2021-05-01,1,Sé2,111.0
-2021-05-01,1,Parada Inglesa ,6.0
-2021-05-01,1,São Joaquim ,13.0
-2021-05-01,1,Japão-Liberdade ,11.0
-2021-05-01,1,Jabaquara,45.0
-2021-05-01,1,Conceição ,14.0
-2021-05-01,1,São Judas ,8.0
-2021-05-01,1,Saúde ,15.0
-2021-05-01,1,Carandiru ,6.0
-2021-05-01,1,Santa Cruz,58.0
-2021-05-01,1,Vila Mariana ,9.0
-2021-05-01,1,Ana Rosa¹,39.0
-2021-05-01,1,Paraíso¹,48.0
+2021-05-01,1,Sé,111.0
+2021-05-01,1,Tucuruvi ,34.0
 2021-05-01,1,Vergueiro ,15.0
+2021-05-01,1,Paraíso,48.0
+2021-05-01,1,Ana Rosa,39.0
+2021-05-01,1,Vila Mariana ,9.0
+2021-05-01,1,Santa Cruz,58.0
 2021-05-01,1,Praça da Árvore ,9.0
-2021-06-01,1,Jardim São Paulo-Ayrton Senna,6.0
-2021-06-01,1,Santana ,32.0
-2021-06-01,1,Carandiru ,6.0
-2021-06-01,1,Portuguesa-Tietê ,27.0
-2021-06-01,1,Armênia ,14.0
-2021-06-01,1,Tiradentes ,8.0
-2021-06-01,1,Luz,69.0
+2021-05-01,1,Saúde ,15.0
+2021-05-01,1,São Judas ,8.0
+2021-05-01,1,Conceição ,14.0
+2021-05-01,1,Jabaquara,45.0
+2021-05-01,1,Japão-Liberdade ,11.0
 2021-06-01,1,São Bento,33.0
-2021-06-01,1,Parada Inglesa ,7.0
-2021-06-01,1,Sé2,116.0
-2021-06-01,1,Vergueiro ,16.0
-2021-06-01,1,São Joaquim ,14.0
-2021-06-01,1,Paraíso¹,50.0
-2021-06-01,1,Ana Rosa¹,41.0
+2021-06-01,1,Luz,69.0
+2021-06-01,1,Tiradentes ,8.0
+2021-06-01,1,Jardim São Paulo-Ayrton Senna,6.0
+2021-06-01,1,Portuguesa-Tietê ,27.0
+2021-06-01,1,Carandiru ,6.0
+2021-06-01,1,Santana ,32.0
+2021-06-01,1,Sé,116.0
+2021-06-01,1,Armênia ,14.0
+2021-06-01,1,Japão-Liberdade ,12.0
 2021-06-01,1,Santa Cruz,61.0
+2021-06-01,1,Vergueiro ,16.0
+2021-06-01,1,Paraíso,50.0
+2021-06-01,1,Ana Rosa,41.0
+2021-06-01,1,Vila Mariana ,10.0
 2021-06-01,1,Praça da Árvore ,9.0
 2021-06-01,1,Saúde ,16.0
 2021-06-01,1,São Judas ,9.0
 2021-06-01,1,Conceição ,15.0
 2021-06-01,1,Jabaquara,46.0
-2021-06-01,1,Japão-Liberdade ,12.0
-2021-06-01,1,Vila Mariana ,10.0
+2021-06-01,1,Parada Inglesa ,7.0
+2021-06-01,1,São Joaquim ,14.0
 2021-06-01,1,Tucuruvi ,35.0
+2021-07-01,1,São Joaquim ,13.0
 2021-07-01,1,Conceição ,15.0
-2021-07-01,1,Jabaquara,48.0
 2021-07-01,1,Tucuruvi ,36.0
 2021-07-01,1,Parada Inglesa ,7.0
 2021-07-01,1,Jardim São Paulo-Ayrton Senna,6.0
 2021-07-01,1,Santana ,33.0
 2021-07-01,1,Carandiru ,6.0
-2021-07-01,1,Portuguesa-Tietê ,29.0
 2021-07-01,1,Armênia ,15.0
 2021-07-01,1,Tiradentes ,8.0
 2021-07-01,1,Luz,69.0
-2021-07-01,1,São Joaquim ,13.0
-2021-07-01,1,Sé2,119.0
 2021-07-01,1,São Bento,36.0
-2021-07-01,1,Saúde ,16.0
-2021-07-01,1,Praça da Árvore ,10.0
-2021-07-01,1,Santa Cruz,63.0
-2021-07-01,1,São Judas ,9.0
-2021-07-01,1,Ana Rosa¹,42.0
-2021-07-01,1,Paraíso¹,52.0
+2021-07-01,1,Sé,119.0
+2021-07-01,1,Portuguesa-Tietê ,29.0
+2021-07-01,1,Jabaquara,48.0
 2021-07-01,1,Vergueiro ,15.0
-2021-07-01,1,Japão-Liberdade ,12.0
+2021-07-01,1,Paraíso,52.0
+2021-07-01,1,Ana Rosa,42.0
 2021-07-01,1,Vila Mariana ,10.0
+2021-07-01,1,Santa Cruz,63.0
+2021-07-01,1,Praça da Árvore ,10.0
+2021-07-01,1,Saúde ,16.0
+2021-07-01,1,São Judas ,9.0
+2021-07-01,1,Japão-Liberdade ,12.0
+2021-08-01,1,Sé,127.0
 2021-08-01,1,São Bento,36.0
-2021-08-01,1,Parada Inglesa ,8.0
-2021-08-01,1,Jardim São Paulo-Ayrton Senna,7.0
-2021-08-01,1,Santana ,36.0
-2021-08-01,1,Carandiru ,7.0
-2021-08-01,1,Portuguesa-Tietê ,31.0
-2021-08-01,1,Armênia ,15.0
-2021-08-01,1,Tiradentes ,9.0
 2021-08-01,1,Luz,74.0
-2021-08-01,1,Tucuruvi ,40.0
-2021-08-01,1,Sé2,127.0
-2021-08-01,1,São Joaquim ,15.0
-2021-08-01,1,Vergueiro ,17.0
-2021-08-01,1,Paraíso¹,58.0
-2021-08-01,1,Ana Rosa¹,47.0
-2021-08-01,1,Vila Mariana ,11.0
-2021-08-01,1,Santa Cruz,68.0
-2021-08-01,1,Praça da Árvore ,11.0
-2021-08-01,1,Saúde ,18.0
-2021-08-01,1,São Judas ,10.0
-2021-08-01,1,Conceição ,16.0
+2021-08-01,1,Tiradentes ,9.0
+2021-08-01,1,Jardim São Paulo-Ayrton Senna,7.0
+2021-08-01,1,Portuguesa-Tietê ,31.0
+2021-08-01,1,Carandiru ,7.0
+2021-08-01,1,Santana ,36.0
 2021-08-01,1,Japão-Liberdade ,13.0
+2021-08-01,1,Armênia ,15.0
+2021-08-01,1,Tucuruvi ,40.0
+2021-08-01,1,Parada Inglesa ,8.0
+2021-08-01,1,Vergueiro ,17.0
 2021-08-01,1,Jabaquara,51.0
-2021-09-01,1,Luz,89.0
-2021-09-01,1,Tiradentes ,10.0
-2021-09-01,1,Armênia ,16.0
-2021-09-01,1,Tucuruvi ,42.0
-2021-09-01,1,Carandiru ,7.0
-2021-09-01,1,Jardim São Paulo-Ayrton Senna,7.0
-2021-09-01,1,Parada Inglesa ,8.0
-2021-09-01,1,Portuguesa-Tietê ,34.0
-2021-09-01,1,Sé2,136.0
-2021-09-01,1,Santana ,39.0
-2021-09-01,1,São Joaquim ,17.0
-2021-09-01,1,Japão-Liberdade ,14.0
+2021-08-01,1,Conceição ,16.0
+2021-08-01,1,São Judas ,10.0
+2021-08-01,1,Saúde ,18.0
+2021-08-01,1,São Joaquim ,15.0
+2021-08-01,1,Santa Cruz,68.0
+2021-08-01,1,Vila Mariana ,11.0
+2021-08-01,1,Ana Rosa,47.0
+2021-08-01,1,Paraíso,58.0
+2021-08-01,1,Praça da Árvore ,11.0
 2021-09-01,1,Jabaquara,55.0
-2021-09-01,1,Conceição ,18.0
-2021-09-01,1,São Judas ,10.0
-2021-09-01,1,Saúde ,19.0
+2021-09-01,1,Tucuruvi ,42.0
+2021-09-01,1,Parada Inglesa ,8.0
+2021-09-01,1,Jardim São Paulo-Ayrton Senna,7.0
+2021-09-01,1,Santana ,39.0
+2021-09-01,1,Carandiru ,7.0
+2021-09-01,1,Portuguesa-Tietê ,34.0
+2021-09-01,1,Armênia ,16.0
+2021-09-01,1,Tiradentes ,10.0
 2021-09-01,1,São Bento,39.0
-2021-09-01,1,Santa Cruz,72.0
-2021-09-01,1,Vila Mariana ,13.0
-2021-09-01,1,Ana Rosa¹,51.0
-2021-09-01,1,Paraíso¹,62.0
-2021-09-01,1,Praça da Árvore ,11.0
+2021-09-01,1,Luz,89.0
+2021-09-01,1,Japão-Liberdade ,14.0
+2021-09-01,1,São Joaquim ,17.0
 2021-09-01,1,Vergueiro ,18.0
-2021-10-01,1,Tucuruvi ,44.0
-2021-10-01,1,Jardim São Paulo-Ayrton Senna,8.0
-2021-10-01,1,Santana ,40.0
-2021-10-01,1,Portuguesa-Tietê ,36.0
-2021-10-01,1,Armênia ,17.0
-2021-10-01,1,Tiradentes ,10.0
+2021-09-01,1,Paraíso,62.0
+2021-09-01,1,Ana Rosa,51.0
+2021-09-01,1,Vila Mariana ,13.0
+2021-09-01,1,Santa Cruz,72.0
+2021-09-01,1,Praça da Árvore ,11.0
+2021-09-01,1,Saúde ,19.0
+2021-09-01,1,São Judas ,10.0
+2021-09-01,1,Conceição ,18.0
+2021-09-01,1,Sé,136.0
 2021-10-01,1,Luz,96.0
-2021-10-01,1,São Bento,43.0
-2021-10-01,1,Sé2,142.0
+2021-10-01,1,Tiradentes ,10.0
+2021-10-01,1,Armênia ,17.0
+2021-10-01,1,Tucuruvi ,44.0
+2021-10-01,1,Carandiru ,8.0
+2021-10-01,1,Jardim São Paulo-Ayrton Senna,8.0
 2021-10-01,1,Parada Inglesa ,9.0
+2021-10-01,1,São Bento,43.0
+2021-10-01,1,Portuguesa-Tietê ,36.0
+2021-10-01,1,Sé,142.0
+2021-10-01,1,Santana ,40.0
 2021-10-01,1,São Joaquim ,18.0
 2021-10-01,1,Japão-Liberdade ,15.0
 2021-10-01,1,Jabaquara,57.0
 2021-10-01,1,Conceição ,19.0
 2021-10-01,1,São Judas ,11.0
 2021-10-01,1,Saúde ,20.0
-2021-10-01,1,Carandiru ,8.0
+2021-10-01,1,Paraíso,65.0
 2021-10-01,1,Santa Cruz,76.0
 2021-10-01,1,Vila Mariana ,13.0
-2021-10-01,1,Ana Rosa¹,53.0
-2021-10-01,1,Paraíso¹,65.0
+2021-10-01,1,Ana Rosa,53.0
 2021-10-01,1,Vergueiro ,19.0
 2021-10-01,1,Praça da Árvore ,12.0
 2021-11-01,1,Tucuruvi ,47.0
@@ -239,131 +239,407 @@ month,line,station,dpea
 2021-11-01,1,Tiradentes ,11.0
 2021-11-01,1,Luz,106.0
 2021-11-01,1,São Bento,46.0
-2021-11-01,1,São Joaquim ,18.0
 2021-11-01,1,Japão-Liberdade ,16.0
+2021-11-01,1,São Joaquim ,18.0
 2021-11-01,1,Vergueiro ,20.0
-2021-11-01,1,Paraíso¹,69.0
-2021-11-01,1,Ana Rosa¹,57.0
+2021-11-01,1,Paraíso,69.0
+2021-11-01,1,Vila Mariana ,14.0
 2021-11-01,1,Santa Cruz,81.0
 2021-11-01,1,Praça da Árvore ,13.0
 2021-11-01,1,Saúde ,21.0
 2021-11-01,1,São Judas ,12.0
 2021-11-01,1,Conceição ,20.0
 2021-11-01,1,Jabaquara,61.0
-2021-11-01,1,Sé2,151.0
-2021-11-01,1,Vila Mariana ,14.0
+2021-11-01,1,Sé,151.0
+2021-11-01,1,Ana Rosa,57.0
+2021-12-01,1,Parada Inglesa ,9.0
 2021-12-01,1,Tucuruvi ,45.0
-2021-12-01,1,Conceição ,19.0
+2021-12-01,1,Jabaquara,59.0
 2021-12-01,1,Jardim São Paulo-Ayrton Senna,8.0
 2021-12-01,1,Santana ,40.0
 2021-12-01,1,Carandiru ,8.0
 2021-12-01,1,Portuguesa-Tietê ,41.0
 2021-12-01,1,Armênia ,16.0
-2021-12-01,1,Tiradentes ,10.0
 2021-12-01,1,Luz,99.0
 2021-12-01,1,São Bento,48.0
-2021-12-01,1,Sé2,144.0
+2021-12-01,1,Sé,144.0
 2021-12-01,1,Japão-Liberdade ,16.0
-2021-12-01,1,São Joaquim ,15.0
+2021-12-01,1,Tiradentes ,10.0
 2021-12-01,1,Vergueiro ,18.0
-2021-12-01,1,Paraíso¹,65.0
-2021-12-01,1,Ana Rosa¹,53.0
+2021-12-01,1,Paraíso,65.0
+2021-12-01,1,Ana Rosa,53.0
 2021-12-01,1,Vila Mariana ,12.0
 2021-12-01,1,Santa Cruz,77.0
 2021-12-01,1,Praça da Árvore ,12.0
 2021-12-01,1,Saúde ,20.0
 2021-12-01,1,São Judas ,11.0
-2021-12-01,1,Jabaquara,59.0
-2021-12-01,1,Parada Inglesa ,9.0
-2023-01-01,1,Jabaquara,63.0
-2023-01-01,1,Tucuruvi ,47.0
-2023-01-01,1,Parada Inglesa ,9.0
-2023-01-01,1,Jardim São Paulo-Ayrton Senna,8.0
-2023-01-01,1,Santana ,41.0
-2023-01-01,1,Carandiru ,8.0
-2023-01-01,1,Portuguesa-Tietê ,43.0
-2023-01-01,1,Armênia ,17.0
+2021-12-01,1,Conceição ,19.0
+2021-12-01,1,São Joaquim ,15.0
+2022-01-01,1,São Bento,38.0
+2022-01-01,1,Luz,86.0
+2022-01-01,1,Tiradentes ,8.0
+2022-01-01,1,Armênia ,15.0
+2022-01-01,1,Tucuruvi ,39.0
+2022-01-01,1,Santana ,35.0
+2022-01-01,1,Jardim São Paulo-Ayrton Senna,7.0
+2022-01-01,1,Parada Inglesa ,7.0
+2022-01-01,1,Sé,125.0
+2022-01-01,1,Carandiru ,7.0
+2022-01-01,1,Japão-Liberdade ,14.0
+2022-01-01,1,Portuguesa-Tietê ,35.0
+2022-01-01,1,Vergueiro ,16.0
+2022-01-01,1,Conceição ,16.0
+2022-01-01,1,São Judas ,10.0
+2022-01-01,1,Saúde ,18.0
+2022-01-01,1,Praça da Árvore ,10.0
+2022-01-01,1,Jabaquara,53.0
+2022-01-01,1,Santa Cruz,66.0
+2022-01-01,1,Vila Mariana ,11.0
+2022-01-01,1,Ana Rosa,46.0
+2022-01-01,1,Paraíso,57.0
+2022-01-01,1,São Joaquim ,14.0
+2022-02-01,1,Sé,145.0
+2022-02-01,1,Parada Inglesa ,9.0
+2022-02-01,1,Jardim São Paulo-Ayrton Senna,8.0
+2022-02-01,1,Santana ,38.0
+2022-02-01,1,Carandiru ,9.0
+2022-02-01,1,Portuguesa-Tietê ,36.0
+2022-02-01,1,Armênia ,17.0
+2022-02-01,1,Tiradentes ,13.0
+2022-02-01,1,Luz,100.0
+2022-02-01,1,São Bento,42.0
+2022-02-01,1,Tucuruvi ,46.0
+2022-02-01,1,Japão-Liberdade ,16.0
+2022-02-01,1,Vergueiro ,21.0
+2022-02-01,1,Paraíso,69.0
+2022-02-01,1,Ana Rosa,57.0
+2022-02-01,1,Vila Mariana ,15.0
+2022-02-01,1,Santa Cruz,77.0
+2022-02-01,1,Praça da Árvore ,12.0
+2022-02-01,1,Saúde ,22.0
+2022-02-01,1,São Judas ,11.0
+2022-02-01,1,Conceição ,20.0
+2022-02-01,1,Jabaquara,58.0
+2022-02-01,1,São Joaquim ,18.0
+2022-03-01,1,Luz,108.0
+2022-03-01,1,Tiradentes ,15.0
+2022-03-01,1,Armênia ,19.0
+2022-03-01,1,Portuguesa-Tietê ,40.0
+2022-03-01,1,São Bento,44.0
+2022-03-01,1,Santana ,45.0
+2022-03-01,1,Jardim São Paulo-Ayrton Senna,10.0
+2022-03-01,1,Parada Inglesa ,10.0
+2022-03-01,1,Tucuruvi ,50.0
+2022-03-01,1,Carandiru ,10.0
+2022-03-01,1,Sé,164.0
+2022-03-01,1,Vila Mariana ,18.0
+2022-03-01,1,São Joaquim ,23.0
+2022-03-01,1,Conceição ,22.0
+2022-03-01,1,São Judas ,13.0
+2022-03-01,1,Saúde ,24.0
+2022-03-01,1,Praça da Árvore ,14.0
+2022-03-01,1,Jabaquara,63.0
+2022-03-01,1,Japão-Liberdade ,18.0
+2022-03-01,1,Ana Rosa,65.0
+2022-03-01,1,Paraíso,80.0
+2022-03-01,1,Vergueiro ,23.0
+2022-03-01,1,Santa Cruz,84.0
+2022-04-01,1,Sé,168.0
+2022-04-01,1,Parada Inglesa ,11.0
+2022-04-01,1,Jardim São Paulo-Ayrton Senna,10.0
+2022-04-01,1,Santana ,47.0
+2022-04-01,1,Carandiru ,10.0
+2022-04-01,1,Portuguesa-Tietê ,43.0
+2022-04-01,1,Armênia ,21.0
+2022-04-01,1,Tiradentes ,15.0
+2022-04-01,1,Luz,114.0
+2022-04-01,1,São Bento,47.0
+2022-04-01,1,Japão-Liberdade ,20.0
+2022-04-01,1,Tucuruvi ,53.0
+2022-04-01,1,Vergueiro ,24.0
+2022-04-01,1,Jabaquara,66.0
+2022-04-01,1,Conceição ,24.0
+2022-04-01,1,São Judas ,14.0
+2022-04-01,1,Saúde ,25.0
+2022-04-01,1,São Joaquim ,24.0
+2022-04-01,1,Santa Cruz,89.0
+2022-04-01,1,Vila Mariana ,19.0
+2022-04-01,1,Ana Rosa,68.0
+2022-04-01,1,Paraíso,84.0
+2022-04-01,1,Praça da Árvore ,14.0
+2022-05-01,1,Sé,165.0
+2022-05-01,1,Parada Inglesa ,11.0
+2022-05-01,1,Jardim São Paulo-Ayrton Senna,10.0
+2022-05-01,1,Santana ,47.0
+2022-05-01,1,Carandiru ,10.0
+2022-05-01,1,Portuguesa-Tietê ,42.0
+2022-05-01,1,Armênia ,21.0
+2022-05-01,1,Tiradentes ,15.0
+2022-05-01,1,Luz,115.0
+2022-05-01,1,São Bento,46.0
+2022-05-01,1,Tucuruvi ,52.0
+2022-05-01,1,Japão-Liberdade ,19.0
+2022-05-01,1,Vergueiro ,24.0
+2022-05-01,1,Paraíso,84.0
+2022-05-01,1,Ana Rosa,68.0
+2022-05-01,1,Vila Mariana ,19.0
+2022-05-01,1,Santa Cruz,88.0
+2022-05-01,1,Praça da Árvore ,14.0
+2022-05-01,1,Saúde ,25.0
+2022-05-01,1,São Judas ,13.0
+2022-05-01,1,Conceição ,23.0
+2022-05-01,1,Jabaquara,66.0
+2022-05-01,1,São Joaquim ,24.0
+2022-06-01,1,São Bento,46.0
+2022-06-01,1,Luz,111.0
+2022-06-01,1,Tiradentes ,14.0
+2022-06-01,1,Armênia ,20.0
+2022-06-01,1,Sé,161.0
+2022-06-01,1,Carandiru ,10.0
+2022-06-01,1,Santana ,43.0
+2022-06-01,1,Jardim São Paulo-Ayrton Senna,10.0
+2022-06-01,1,Parada Inglesa ,11.0
+2022-06-01,1,Portuguesa-Tietê ,41.0
+2022-06-01,1,Japão-Liberdade ,18.0
+2022-06-01,1,Tucuruvi ,51.0
+2022-06-01,1,Vergueiro ,22.0
+2022-06-01,1,Jabaquara,64.0
+2022-06-01,1,Conceição ,22.0
+2022-06-01,1,São Judas ,13.0
+2022-06-01,1,Saúde ,24.0
+2022-06-01,1,São Joaquim ,22.0
+2022-06-01,1,Santa Cruz,86.0
+2022-06-01,1,Vila Mariana ,17.0
+2022-06-01,1,Ana Rosa,66.0
+2022-06-01,1,Paraíso,81.0
+2022-06-01,1,Praça da Árvore ,14.0
+2022-07-01,1,Tucuruvi ,49.0
+2022-07-01,1,Parada Inglesa ,10.0
+2022-07-01,1,Jardim São Paulo-Ayrton Senna,9.0
+2022-07-01,1,Santana ,44.0
+2022-07-01,1,Carandiru ,9.0
+2022-07-01,1,Portuguesa-Tietê ,44.0
+2022-07-01,1,Armênia ,19.0
+2022-07-01,1,Tiradentes ,12.0
+2022-07-01,1,São Bento,46.0
+2022-07-01,1,Sé,155.0
+2022-07-01,1,Japão-Liberdade ,20.0
+2022-07-01,1,Luz,111.0
+2022-07-01,1,Vergueiro ,21.0
+2022-07-01,1,São Joaquim ,18.0
+2022-07-01,1,Conceição ,21.0
+2022-07-01,1,São Judas ,13.0
+2022-07-01,1,Saúde ,23.0
+2022-07-01,1,Praça da Árvore ,13.0
+2022-07-01,1,Jabaquara,64.0
+2022-07-01,1,Vila Mariana ,14.0
+2022-07-01,1,Ana Rosa,62.0
+2022-07-01,1,Paraíso,77.0
+2022-07-01,1,Santa Cruz,84.0
+2022-08-01,1,Sé,165.0
+2022-08-01,1,Tucuruvi ,53.0
+2022-08-01,1,Parada Inglesa ,11.0
+2022-08-01,1,Jardim São Paulo-Ayrton Senna,10.0
+2022-08-01,1,Santana ,47.0
+2022-08-01,1,Carandiru ,10.0
+2022-08-01,1,Portuguesa-Tietê ,42.0
+2022-08-01,1,Armênia ,20.0
+2022-08-01,1,Tiradentes ,15.0
+2022-08-01,1,São Bento,46.0
+2022-08-01,1,Japão-Liberdade ,20.0
+2022-08-01,1,Luz,117.0
+2022-08-01,1,Vergueiro ,25.0
+2022-08-01,1,Conceição ,23.0
+2022-08-01,1,São Judas ,13.0
+2022-08-01,1,Saúde ,25.0
+2022-08-01,1,Praça da Árvore ,15.0
+2022-08-01,1,Jabaquara,66.0
+2022-08-01,1,Vila Mariana ,19.0
+2022-08-01,1,Ana Rosa,70.0
+2022-08-01,1,Paraíso,87.0
+2022-08-01,1,Santa Cruz,89.0
+2022-08-01,1,São Joaquim ,25.0
+2022-09-01,1,Tucuruvi ,54.0
+2022-09-01,1,Sé,168.0
+2022-09-01,1,Parada Inglesa ,11.0
+2022-09-01,1,Jardim São Paulo-Ayrton Senna,11.0
+2022-09-01,1,Santana ,48.0
+2022-09-01,1,Carandiru ,11.0
+2022-09-01,1,Portuguesa-Tietê ,44.0
+2022-09-01,1,Armênia ,21.0
+2022-09-01,1,Tiradentes ,16.0
+2022-09-01,1,Luz,119.0
+2022-09-01,1,São Bento,47.0
+2022-09-01,1,Japão-Liberdade ,20.0
+2022-09-01,1,Vergueiro ,25.0
+2022-09-01,1,Paraíso,89.0
+2022-09-01,1,Ana Rosa,71.0
+2022-09-01,1,Vila Mariana ,19.0
+2022-09-01,1,Santa Cruz,90.0
+2022-09-01,1,Praça da Árvore ,14.0
+2022-09-01,1,Saúde ,26.0
+2022-09-01,1,São Judas ,14.0
+2022-09-01,1,Conceição ,24.0
+2022-09-01,1,Jabaquara,67.0
+2022-09-01,1,São Joaquim ,28.0
+2022-10-01,1,Tucuruvi ,55.0
+2022-10-01,1,Luz,127.0
+2022-10-01,1,Tiradentes ,15.0
+2022-10-01,1,Armênia ,20.0
+2022-10-01,1,São Bento,52.0
+2022-10-01,1,Carandiru ,10.0
+2022-10-01,1,Santana ,48.0
+2022-10-01,1,Jardim São Paulo-Ayrton Senna,11.0
+2022-10-01,1,Parada Inglesa ,12.0
+2022-10-01,1,Portuguesa-Tietê ,44.0
+2022-10-01,1,Sé,170.0
+2022-10-01,1,Paraíso,89.0
+2022-10-01,1,São Joaquim ,29.0
+2022-10-01,1,Japão-Liberdade ,21.0
+2022-10-01,1,Jabaquara,69.0
+2022-10-01,1,Conceição ,24.0
+2022-10-01,1,São Judas ,15.0
+2022-10-01,1,Saúde ,26.0
+2022-10-01,1,Santa Cruz,91.0
+2022-10-01,1,Vila Mariana ,19.0
+2022-10-01,1,Ana Rosa,71.0
+2022-10-01,1,Praça da Árvore ,15.0
+2022-10-01,1,Vergueiro ,25.0
+2022-11-01,1,Tiradentes ,15.0
+2022-11-01,1,Tucuruvi ,55.0
+2022-11-01,1,Parada Inglesa ,12.0
+2022-11-01,1,Jardim São Paulo-Ayrton Senna,11.0
+2022-11-01,1,Santana ,49.0
+2022-11-01,1,Carandiru ,11.0
+2022-11-01,1,Portuguesa-Tietê ,43.0
+2022-11-01,1,Armênia ,21.0
+2022-11-01,1,Luz,126.0
+2022-11-01,1,São Bento,53.0
+2022-11-01,1,Sé,173.0
+2022-11-01,1,Japão-Liberdade ,20.0
+2022-11-01,1,Vergueiro ,25.0
+2022-11-01,1,Paraíso,90.0
+2022-11-01,1,Ana Rosa,72.0
+2022-11-01,1,Vila Mariana ,19.0
+2022-11-01,1,Santa Cruz,91.0
+2022-11-01,1,Praça da Árvore ,15.0
+2022-11-01,1,Saúde ,27.0
+2022-11-01,1,São Judas ,14.0
+2022-11-01,1,Conceição ,25.0
+2022-11-01,1,Jabaquara,69.0
+2022-11-01,1,São Joaquim ,28.0
+2022-12-01,1,Luz,113.0
+2022-12-01,1,Tiradentes ,11.0
+2022-12-01,1,Armênia ,17.0
+2022-12-01,1,Portuguesa-Tietê ,44.0
+2022-12-01,1,Paraíso,75.0
+2022-12-01,1,Santana ,43.0
+2022-12-01,1,Jardim São Paulo-Ayrton Senna,9.0
+2022-12-01,1,Parada Inglesa ,10.0
+2022-12-01,1,São Bento,52.0
+2022-12-01,1,Tucuruvi ,49.0
+2022-12-01,1,Carandiru ,9.0
+2022-12-01,1,Sé,154.0
+2022-12-01,1,Santa Cruz,82.0
+2022-12-01,1,São Joaquim ,19.0
+2022-12-01,1,Vergueiro ,21.0
+2022-12-01,1,Ana Rosa,60.0
+2022-12-01,1,Vila Mariana ,14.0
+2022-12-01,1,Praça da Árvore ,13.0
+2022-12-01,1,Saúde ,23.0
+2022-12-01,1,São Judas ,13.0
+2022-12-01,1,Conceição ,21.0
+2022-12-01,1,Jabaquara,64.0
+2022-12-01,1,Japão-Liberdade ,20.0
 2023-01-01,1,Luz,108.0
-2023-01-01,1,São Bento,48.0
-2023-01-01,1,Sé2,144.0
-2023-01-01,1,Japão-Liberdade ,19.0
 2023-01-01,1,Tiradentes ,10.0
-2023-01-01,1,Vergueiro ,21.0
+2023-01-01,1,Armênia ,17.0
+2023-01-01,1,Parada Inglesa ,9.0
+2023-01-01,1,Carandiru ,8.0
+2023-01-01,1,Santana ,41.0
+2023-01-01,1,Jardim São Paulo-Ayrton Senna,8.0
+2023-01-01,1,São Bento,48.0
+2023-01-01,1,Portuguesa-Tietê ,43.0
+2023-01-01,1,Sé,144.0
+2023-01-01,1,Ana Rosa,59.0
 2023-01-01,1,São Joaquim ,17.0
-2023-01-01,1,São Judas ,12.0
-2023-01-01,1,Saúde ,21.0
-2023-01-01,1,Praça da Árvore ,12.0
-2023-01-01,1,Conceição ,20.0
+2023-01-01,1,Vergueiro ,21.0
+2023-01-01,1,Paraíso,73.0
 2023-01-01,1,Vila Mariana ,13.0
-2023-01-01,1,Ana Rosa¹,59.0
-2023-01-01,1,Paraíso¹,73.0
 2023-01-01,1,Santa Cruz,76.0
-2023-02-01,1,Luz,122.0
-2023-02-01,1,Jabaquara,66.0
+2023-01-01,1,Praça da Árvore ,12.0
+2023-01-01,1,Saúde ,21.0
+2023-01-01,1,São Judas ,12.0
+2023-01-01,1,Conceição ,20.0
+2023-01-01,1,Japão-Liberdade ,19.0
+2023-01-01,1,Tucuruvi ,47.0
+2023-01-01,1,Jabaquara,63.0
+2023-02-01,1,Armênia ,20.0
 2023-02-01,1,Tucuruvi ,54.0
 2023-02-01,1,Parada Inglesa ,11.0
 2023-02-01,1,Jardim São Paulo-Ayrton Senna,11.0
 2023-02-01,1,Santana ,47.0
-2023-02-01,1,Portuguesa-Tietê ,43.0
-2023-02-01,1,Armênia ,20.0
-2023-02-01,1,Tiradentes ,15.0
-2023-02-01,1,São Bento,51.0
 2023-02-01,1,Carandiru ,10.0
+2023-02-01,1,Portuguesa-Tietê ,43.0
+2023-02-01,1,Tiradentes ,15.0
+2023-02-01,1,Luz,122.0
+2023-02-01,1,São Bento,51.0
 2023-02-01,1,Japão-Liberdade ,20.0
-2023-02-01,1,Saúde ,26.0
-2023-02-01,1,Praça da Árvore ,15.0
-2023-02-01,1,Santa Cruz,88.0
-2023-02-01,1,Vila Mariana ,19.0
-2023-02-01,1,São Judas ,14.0
-2023-02-01,1,Ana Rosa¹,70.0
-2023-02-01,1,Paraíso¹,87.0
+2023-02-01,1,Sé,164.0
 2023-02-01,1,Vergueiro ,25.0
-2023-02-01,1,São Joaquim ,24.0
+2023-02-01,1,Paraíso,87.0
+2023-02-01,1,Ana Rosa,70.0
+2023-02-01,1,Vila Mariana ,19.0
+2023-02-01,1,Santa Cruz,88.0
+2023-02-01,1,Praça da Árvore ,15.0
+2023-02-01,1,Saúde ,26.0
+2023-02-01,1,São Judas ,14.0
 2023-02-01,1,Conceição ,24.0
-2023-02-01,1,Sé2,164.0
-2023-03-01,1,São Bento,51.0
-2023-03-01,1,Tucuruvi ,56.0
-2023-03-01,1,Parada Inglesa ,12.0
-2023-03-01,1,Jardim São Paulo-Ayrton Senna,11.0
-2023-03-01,1,Santana ,50.0
-2023-03-01,1,Carandiru ,11.0
-2023-03-01,1,Portuguesa-Tietê ,44.0
+2023-02-01,1,Jabaquara,66.0
+2023-02-01,1,São Joaquim ,24.0
 2023-03-01,1,Armênia ,21.0
-2023-03-01,1,Tiradentes ,16.0
+2023-03-01,1,São Bento,51.0
 2023-03-01,1,Luz,127.0
-2023-03-01,1,Sé2,172.0
-2023-03-01,1,São Joaquim ,33.0
+2023-03-01,1,Tiradentes ,16.0
+2023-03-01,1,Portuguesa-Tietê ,44.0
+2023-03-01,1,Tucuruvi ,56.0
+2023-03-01,1,Santana ,50.0
+2023-03-01,1,Jardim São Paulo-Ayrton Senna,11.0
+2023-03-01,1,Parada Inglesa ,12.0
+2023-03-01,1,Sé,172.0
+2023-03-01,1,Carandiru ,11.0
 2023-03-01,1,Japão-Liberdade ,22.0
-2023-03-01,1,Conceição ,26.0
-2023-03-01,1,São Judas ,15.0
-2023-03-01,1,Saúde ,27.0
 2023-03-01,1,Praça da Árvore ,15.0
-2023-03-01,1,Jabaquara,70.0
-2023-03-01,1,Vila Mariana ,21.0
-2023-03-01,1,Ana Rosa¹,75.0
-2023-03-01,1,Paraíso¹,94.0
 2023-03-01,1,Vergueiro ,26.0
+2023-03-01,1,Paraíso,94.0
+2023-03-01,1,Ana Rosa,75.0
+2023-03-01,1,Vila Mariana ,21.0
 2023-03-01,1,Santa Cruz,91.0
-2023-04-01,1,Luz,130.0
-2023-04-01,1,Tucuruvi ,56.0
-2023-04-01,1,Parada Inglesa ,12.0
-2023-04-01,1,Jardim São Paulo-Ayrton Senna,11.0
-2023-04-01,1,Santana ,50.0
-2023-04-01,1,Carandiru ,11.0
-2023-04-01,1,Portuguesa-Tietê ,45.0
-2023-04-01,1,Armênia ,21.0
+2023-03-01,1,Saúde ,27.0
+2023-03-01,1,São Judas ,15.0
+2023-03-01,1,Conceição ,26.0
+2023-03-01,1,Jabaquara,70.0
+2023-03-01,1,São Joaquim ,33.0
 2023-04-01,1,Tiradentes ,16.0
+2023-04-01,1,Armênia ,21.0
+2023-04-01,1,Portuguesa-Tietê ,45.0
+2023-04-01,1,Carandiru ,11.0
+2023-04-01,1,Jabaquara,72.0
+2023-04-01,1,Jardim São Paulo-Ayrton Senna,11.0
+2023-04-01,1,Parada Inglesa ,12.0
+2023-04-01,1,Tucuruvi ,56.0
+2023-04-01,1,Luz,130.0
+2023-04-01,1,Santana ,50.0
 2023-04-01,1,São Bento,51.0
-2023-04-01,1,Conceição ,26.0
+2023-04-01,1,Sé,171.0
 2023-04-01,1,Japão-Liberdade ,22.0
-2023-04-01,1,Sé2,171.0
-2023-04-01,1,São Judas ,15.0
+2023-04-01,1,Conceição ,26.0
 2023-04-01,1,Saúde ,27.0
 2023-04-01,1,Praça da Árvore ,15.0
 2023-04-01,1,Santa Cruz,91.0
-2023-04-01,1,Jabaquara,72.0
-2023-04-01,1,Ana Rosa¹,75.0
-2023-04-01,1,Paraíso¹,94.0
+2023-04-01,1,São Judas ,15.0
+2023-04-01,1,Ana Rosa,75.0
+2023-04-01,1,Paraíso,94.0
 2023-04-01,1,Vergueiro ,26.0
 2023-04-01,1,São Joaquim ,34.0
 2023-04-01,1,Vila Mariana ,21.0
@@ -376,46 +652,45 @@ month,line,station,dpea
 2023-05-01,1,Armênia ,
 2023-05-01,1,Tiradentes ,
 2023-05-01,1,Luz,
-2023-05-01,1,Sé2,
+2023-05-01,1,Sé,
 2023-05-01,1,Carandiru ,
 2023-05-01,1,São Joaquim ,
-2023-05-01,1,Vergueiro ,
-2023-05-01,1,Paraíso¹,
-2023-05-01,1,Ana Rosa¹,
-2023-05-01,1,Vila Mariana ,
-2023-05-01,1,Santa Cruz,
-2023-05-01,1,Praça da Árvore ,
-2023-05-01,1,Saúde ,
-2023-05-01,1,São Judas ,
-2023-05-01,1,Conceição ,
-2023-05-01,1,Jabaquara,
 2023-05-01,1,Japão-Liberdade ,
-2023-06-01,1,São Bento,
-2023-06-01,1,Luz,
-2023-06-01,1,Tiradentes ,
+2023-05-01,1,Conceição ,
+2023-05-01,1,São Judas ,
+2023-05-01,1,Saúde ,
+2023-05-01,1,Praça da Árvore ,
+2023-05-01,1,Jabaquara,
+2023-05-01,1,Vila Mariana ,
+2023-05-01,1,Ana Rosa,
+2023-05-01,1,Paraíso,
+2023-05-01,1,Vergueiro ,
+2023-05-01,1,Santa Cruz,
 2023-06-01,1,Jardim São Paulo-Ayrton Senna,
-2023-06-01,1,Portuguesa-Tietê ,
+2023-06-01,1,Japão-Liberdade ,
 2023-06-01,1,Carandiru ,
-2023-06-01,1,Santana ,
+2023-06-01,1,Portuguesa-Tietê ,
 2023-06-01,1,Armênia ,
-2023-06-01,1,Sé2,
-2023-06-01,1,Vila Mariana ,
-2023-06-01,1,São Joaquim ,
-2023-06-01,1,Vergueiro ,
-2023-06-01,1,Paraíso¹,
-2023-06-01,1,Ana Rosa¹,
+2023-06-01,1,Tiradentes ,
+2023-06-01,1,Luz,
+2023-06-01,1,São Bento,
+2023-06-01,1,Sé,
+2023-06-01,1,Santana ,
 2023-06-01,1,Santa Cruz,
+2023-06-01,1,Paraíso,
+2023-06-01,1,Ana Rosa,
+2023-06-01,1,Vila Mariana ,
 2023-06-01,1,Praça da Árvore ,
 2023-06-01,1,Saúde ,
 2023-06-01,1,São Judas ,
 2023-06-01,1,Conceição ,
 2023-06-01,1,Jabaquara,
-2023-06-01,1,Japão-Liberdade ,
-2023-06-01,1,Tucuruvi ,
 2023-06-01,1,Parada Inglesa ,
+2023-06-01,1,Vergueiro ,
+2023-06-01,1,Tucuruvi ,
+2023-06-01,1,São Joaquim ,
 2023-07-01,1,Conceição ,
 2023-07-01,1,Jabaquara,
-2023-07-01,1,Tucuruvi ,
 2023-07-01,1,Parada Inglesa ,
 2023-07-01,1,Jardim São Paulo-Ayrton Senna,
 2023-07-01,1,Santana ,
@@ -424,89 +699,89 @@ month,line,station,dpea
 2023-07-01,1,Armênia ,
 2023-07-01,1,Tiradentes ,
 2023-07-01,1,Luz,
-2023-07-01,1,São Joaquim ,
-2023-07-01,1,Sé2,
 2023-07-01,1,São Bento,
-2023-07-01,1,Saúde ,
-2023-07-01,1,Praça da Árvore ,
-2023-07-01,1,Santa Cruz,
-2023-07-01,1,São Judas ,
-2023-07-01,1,Ana Rosa¹,
-2023-07-01,1,Paraíso¹,
-2023-07-01,1,Vergueiro ,
+2023-07-01,1,Tucuruvi ,
 2023-07-01,1,Japão-Liberdade ,
+2023-07-01,1,São Joaquim ,
+2023-07-01,1,Vergueiro ,
+2023-07-01,1,Paraíso,
+2023-07-01,1,Ana Rosa,
 2023-07-01,1,Vila Mariana ,
-2023-08-01,1,São Bento,
-2023-08-01,1,Parada Inglesa ,
-2023-08-01,1,Jardim São Paulo-Ayrton Senna,
-2023-08-01,1,Santana ,
-2023-08-01,1,Carandiru ,
-2023-08-01,1,Portuguesa-Tietê ,
-2023-08-01,1,Armênia ,
-2023-08-01,1,Tiradentes ,
+2023-07-01,1,Santa Cruz,
+2023-07-01,1,Praça da Árvore ,
+2023-07-01,1,Saúde ,
+2023-07-01,1,São Judas ,
+2023-07-01,1,Sé,
 2023-08-01,1,Luz,
+2023-08-01,1,Tiradentes ,
+2023-08-01,1,Armênia ,
 2023-08-01,1,Tucuruvi ,
-2023-08-01,1,Sé2,
+2023-08-01,1,Carandiru ,
+2023-08-01,1,Jardim São Paulo-Ayrton Senna,
+2023-08-01,1,Parada Inglesa ,
+2023-08-01,1,Portuguesa-Tietê ,
+2023-08-01,1,Sé,
+2023-08-01,1,Santana ,
 2023-08-01,1,São Joaquim ,
-2023-08-01,1,Vergueiro ,
-2023-08-01,1,Paraíso¹,
-2023-08-01,1,Ana Rosa¹,
-2023-08-01,1,Vila Mariana ,
-2023-08-01,1,Santa Cruz,
-2023-08-01,1,Praça da Árvore ,
-2023-08-01,1,Saúde ,
-2023-08-01,1,São Judas ,
-2023-08-01,1,Conceição ,
 2023-08-01,1,Japão-Liberdade ,
 2023-08-01,1,Jabaquara,
-2023-09-01,1,Luz,
-2023-09-01,1,Tiradentes ,
-2023-09-01,1,Armênia ,
+2023-08-01,1,Conceição ,
+2023-08-01,1,São Judas ,
+2023-08-01,1,Saúde ,
+2023-08-01,1,São Bento,
+2023-08-01,1,Santa Cruz,
+2023-08-01,1,Vila Mariana ,
+2023-08-01,1,Ana Rosa,
+2023-08-01,1,Paraíso,
+2023-08-01,1,Vergueiro ,
+2023-08-01,1,Praça da Árvore ,
 2023-09-01,1,Tucuruvi ,
-2023-09-01,1,Carandiru ,
-2023-09-01,1,Jardim São Paulo-Ayrton Senna,
 2023-09-01,1,Parada Inglesa ,
-2023-09-01,1,Portuguesa-Tietê ,
-2023-09-01,1,Sé2,
+2023-09-01,1,Jardim São Paulo-Ayrton Senna,
 2023-09-01,1,Santana ,
+2023-09-01,1,Carandiru ,
+2023-09-01,1,Portuguesa-Tietê ,
+2023-09-01,1,Armênia ,
+2023-09-01,1,Tiradentes ,
+2023-09-01,1,Luz,
+2023-09-01,1,São Bento,
 2023-09-01,1,São Joaquim ,
 2023-09-01,1,Japão-Liberdade ,
-2023-09-01,1,Jabaquara,
-2023-09-01,1,Conceição ,
-2023-09-01,1,São Judas ,
-2023-09-01,1,Saúde ,
-2023-09-01,1,São Bento,
-2023-09-01,1,Santa Cruz,
-2023-09-01,1,Vila Mariana ,
-2023-09-01,1,Ana Rosa¹,
-2023-09-01,1,Paraíso¹,
-2023-09-01,1,Praça da Árvore ,
 2023-09-01,1,Vergueiro ,
+2023-09-01,1,Paraíso,
+2023-09-01,1,Ana Rosa,
+2023-09-01,1,Santa Cruz,
+2023-09-01,1,Praça da Árvore ,
+2023-09-01,1,Saúde ,
+2023-09-01,1,São Judas ,
+2023-09-01,1,Conceição ,
+2023-09-01,1,Jabaquara,
+2023-09-01,1,Sé,
+2023-09-01,1,Vila Mariana ,
+2023-10-01,1,Praça da Árvore ,
+2023-10-01,1,Jabaquara,
 2023-10-01,1,Tucuruvi ,
+2023-10-01,1,Parada Inglesa ,
 2023-10-01,1,Jardim São Paulo-Ayrton Senna,
 2023-10-01,1,Santana ,
+2023-10-01,1,Carandiru ,
 2023-10-01,1,Portuguesa-Tietê ,
-2023-10-01,1,Armênia ,
 2023-10-01,1,Tiradentes ,
 2023-10-01,1,Luz,
 2023-10-01,1,São Bento,
-2023-10-01,1,Sé2,
-2023-10-01,1,Parada Inglesa ,
+2023-10-01,1,Sé,
+2023-10-01,1,Armênia ,
 2023-10-01,1,São Joaquim ,
 2023-10-01,1,Japão-Liberdade ,
-2023-10-01,1,Jabaquara,
-2023-10-01,1,Conceição ,
 2023-10-01,1,São Judas ,
 2023-10-01,1,Saúde ,
-2023-10-01,1,Carandiru ,
 2023-10-01,1,Santa Cruz,
-2023-10-01,1,Vila Mariana ,
-2023-10-01,1,Ana Rosa¹,
-2023-10-01,1,Paraíso¹,
+2023-10-01,1,Conceição ,
+2023-10-01,1,Ana Rosa,
+2023-10-01,1,Paraíso,
 2023-10-01,1,Vergueiro ,
-2023-10-01,1,Praça da Árvore ,
-2023-11-01,1,Tucuruvi ,
-2023-11-01,1,Parada Inglesa ,
+2023-10-01,1,Vila Mariana ,
+2023-11-01,1,Japão-Liberdade ,
 2023-11-01,1,Jardim São Paulo-Ayrton Senna,
 2023-11-01,1,Santana ,
 2023-11-01,1,Carandiru ,
@@ -515,21 +790,23 @@ month,line,station,dpea
 2023-11-01,1,Tiradentes ,
 2023-11-01,1,Luz,
 2023-11-01,1,São Bento,
+2023-11-01,1,Sé,
+2023-11-01,1,Tucuruvi ,
 2023-11-01,1,São Joaquim ,
-2023-11-01,1,Japão-Liberdade ,
+2023-11-01,1,Paraíso,
 2023-11-01,1,Vergueiro ,
-2023-11-01,1,Paraíso¹,
-2023-11-01,1,Ana Rosa¹,
-2023-11-01,1,Santa Cruz,
-2023-11-01,1,Praça da Árvore ,
-2023-11-01,1,Saúde ,
-2023-11-01,1,São Judas ,
-2023-11-01,1,Conceição ,
 2023-11-01,1,Jabaquara,
-2023-11-01,1,Sé2,
+2023-11-01,1,Conceição ,
+2023-11-01,1,São Judas ,
+2023-11-01,1,Parada Inglesa ,
+2023-11-01,1,Praça da Árvore ,
+2023-11-01,1,Santa Cruz,
 2023-11-01,1,Vila Mariana ,
+2023-11-01,1,Ana Rosa,
+2023-11-01,1,Saúde ,
+2023-12-01,1,Tucuruvi ,
+2023-12-01,1,Parada Inglesa ,
 2023-12-01,1,Jardim São Paulo-Ayrton Senna,
-2023-12-01,1,Jabaquara,
 2023-12-01,1,Santana ,
 2023-12-01,1,Carandiru ,
 2023-12-01,1,Portuguesa-Tietê ,
@@ -537,17 +814,16 @@ month,line,station,dpea
 2023-12-01,1,Tiradentes ,
 2023-12-01,1,Luz,
 2023-12-01,1,São Bento,
-2023-12-01,1,Sé2,
-2023-12-01,1,Japão-Liberdade ,
 2023-12-01,1,São Joaquim ,
+2023-12-01,1,Japão-Liberdade ,
 2023-12-01,1,Vergueiro ,
-2023-12-01,1,Paraíso¹,
-2023-12-01,1,Ana Rosa¹,
+2023-12-01,1,Paraíso,
 2023-12-01,1,Vila Mariana ,
 2023-12-01,1,Santa Cruz,
 2023-12-01,1,Praça da Árvore ,
 2023-12-01,1,Saúde ,
 2023-12-01,1,São Judas ,
 2023-12-01,1,Conceição ,
-2023-12-01,1,Parada Inglesa ,
-2023-12-01,1,Tucuruvi ,
+2023-12-01,1,Jabaquara,
+2023-12-01,1,Sé,
+2023-12-01,1,Ana Rosa,
