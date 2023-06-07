@@ -1,0 +1,433 @@
+month,line,station,dpea
+2021-01-01,3,Palmeiras-Barra Funda,95.0
+2021-01-01,3,Marechal Deodoro ,18.0
+2021-01-01,3,Santa Cecília ,16.0
+2021-01-01,3,República,72.0
+2021-01-01,3,Anhangabaú,32.0
+2021-01-01,3,Sé,123.0
+2021-01-01,3,Pedro II ,13.0
+2021-01-01,3,Brás,66.0
+2021-01-01,3,Bresser-Moóca ,19.0
+2021-01-01,3,Corinthians-Itaquera,54.0
+2021-01-01,3,Tatuapé,50.0
+2021-01-01,3,Carrão ,26.0
+2021-01-01,3,Penha ,18.0
+2021-01-01,3,Vila Matilde ,16.0
+2021-01-01,3,Guilhermina-Esperança ,13.0
+2021-01-01,3,Patriarca ,13.0
+2021-01-01,3,Artur Alvim,37.0
+2021-01-01,3,Belém ,25.0
+2021-02-01,3,Corinthians-Itaquera,56.0
+2021-02-01,3,Palmeiras-Barra Funda,101.0
+2021-02-01,3,Marechal Deodoro ,19.0
+2021-02-01,3,Santa Cecília ,17.0
+2021-02-01,3,República,76.0
+2021-02-01,3,Anhangabaú,33.0
+2021-02-01,3,Sé,129.0
+2021-02-01,3,Pedro II ,14.0
+2021-02-01,3,Brás,70.0
+2021-02-01,3,Bresser-Moóca ,21.0
+2021-02-01,3,Patriarca ,14.0
+2021-02-01,3,Guilhermina-Esperança ,13.0
+2021-02-01,3,Vila Matilde ,17.0
+2021-02-01,3,Artur Alvim,39.0
+2021-02-01,3,Carrão ,28.0
+2021-02-01,3,Tatuapé,52.0
+2021-02-01,3,Belém ,27.0
+2021-02-01,3,Penha ,19.0
+2021-03-01,3,Pedro II ,12.0
+2021-03-01,3,Palmeiras-Barra Funda,82.0
+2021-03-01,3,Marechal Deodoro ,16.0
+2021-03-01,3,Santa Cecília ,14.0
+2021-03-01,3,República,58.0
+2021-03-01,3,Anhangabaú,26.0
+2021-03-01,3,Sé,101.0
+2021-03-01,3,Brás,57.0
+2021-03-01,3,Artur Alvim,32.0
+2021-03-01,3,Belém ,23.0
+2021-03-01,3,Tatuapé,41.0
+2021-03-01,3,Carrão ,23.0
+2021-03-01,3,Penha ,15.0
+2021-03-01,3,Vila Matilde ,14.0
+2021-03-01,3,Guilhermina-Esperança ,11.0
+2021-03-01,3,Patriarca ,11.0
+2021-03-01,3,Bresser-Moóca ,17.0
+2021-03-01,3,Corinthians-Itaquera,46.0
+2021-04-01,3,Sé,98.0
+2021-04-01,3,Anhangabaú,25.0
+2021-04-01,3,Palmeiras-Barra Funda,78.0
+2021-04-01,3,Santa Cecília ,14.0
+2021-04-01,3,Marechal Deodoro ,15.0
+2021-04-01,3,Pedro II ,11.0
+2021-04-01,3,República,56.0
+2021-04-01,3,Brás,55.0
+2021-04-01,3,Carrão ,22.0
+2021-04-01,3,Belém ,22.0
+2021-04-01,3,Corinthians-Itaquera,45.0
+2021-04-01,3,Bresser-Moóca ,16.0
+2021-04-01,3,Patriarca ,11.0
+2021-04-01,3,Artur Alvim,32.0
+2021-04-01,3,Vila Matilde ,13.0
+2021-04-01,3,Tatuapé,40.0
+2021-04-01,3,Guilhermina-Esperança ,11.0
+2021-04-01,3,Penha ,15.0
+2021-05-01,3,Marechal Deodoro ,17.0
+2021-05-01,3,Santa Cecília ,16.0
+2021-05-01,3,Anhangabaú,29.0
+2021-05-01,3,Sé,116.0
+2021-05-01,3,Pedro II ,12.0
+2021-05-01,3,Brás,64.0
+2021-05-01,3,Bresser-Moóca ,19.0
+2021-05-01,3,Palmeiras-Barra Funda,87.0
+2021-05-01,3,Tatuapé,47.0
+2021-05-01,3,Belém ,24.0
+2021-05-01,3,Corinthians-Itaquera,52.0
+2021-05-01,3,Artur Alvim,36.0
+2021-05-01,3,Patriarca ,13.0
+2021-05-01,3,República,67.0
+2021-05-01,3,Vila Matilde ,15.0
+2021-05-01,3,Penha ,17.0
+2021-05-01,3,Carrão ,25.0
+2021-05-01,3,Guilhermina-Esperança ,12.0
+2021-06-01,3,Santa Cecília ,16.0
+2021-06-01,3,República,70.0
+2021-06-01,3,Anhangabaú,31.0
+2021-06-01,3,Sé,121.0
+2021-06-01,3,Pedro II ,13.0
+2021-06-01,3,Brás,65.0
+2021-06-01,3,Marechal Deodoro ,17.0
+2021-06-01,3,Belém ,25.0
+2021-06-01,3,Tatuapé,49.0
+2021-06-01,3,Carrão ,26.0
+2021-06-01,3,Vila Matilde ,16.0
+2021-06-01,3,Guilhermina-Esperança ,13.0
+2021-06-01,3,Patriarca ,13.0
+2021-06-01,3,Artur Alvim,37.0
+2021-06-01,3,Corinthians-Itaquera,53.0
+2021-06-01,3,Bresser-Moóca ,19.0
+2021-06-01,3,Penha ,18.0
+2021-06-01,3,Palmeiras-Barra Funda,90.0
+2021-07-01,3,Artur Alvim,38.0
+2021-07-01,3,Corinthians-Itaquera,53.0
+2021-07-01,3,Palmeiras-Barra Funda,94.0
+2021-07-01,3,Marechal Deodoro ,18.0
+2021-07-01,3,Santa Cecília ,16.0
+2021-07-01,3,República,73.0
+2021-07-01,3,Anhangabaú,32.0
+2021-07-01,3,Sé,124.0
+2021-07-01,3,Pedro II ,13.0
+2021-07-01,3,Belém ,25.0
+2021-07-01,3,Bresser-Moóca ,20.0
+2021-07-01,3,Tatuapé,51.0
+2021-07-01,3,Carrão ,27.0
+2021-07-01,3,Penha ,18.0
+2021-07-01,3,Vila Matilde ,16.0
+2021-07-01,3,Guilhermina-Esperança ,13.0
+2021-07-01,3,Brás,67.0
+2021-07-01,3,Patriarca ,14.0
+2021-08-01,3,Palmeiras-Barra Funda,100.0
+2021-08-01,3,Marechal Deodoro ,20.0
+2021-08-01,3,Santa Cecília ,18.0
+2021-08-01,3,República,79.0
+2021-08-01,3,Anhangabaú,35.0
+2021-08-01,3,Sé,135.0
+2021-08-01,3,Pedro II ,14.0
+2021-08-01,3,Brás,69.0
+2021-08-01,3,Belém ,27.0
+2021-08-01,3,Tatuapé,53.0
+2021-08-01,3,Carrão ,30.0
+2021-08-01,3,Penha ,20.0
+2021-08-01,3,Vila Matilde ,18.0
+2021-08-01,3,Guilhermina-Esperança ,14.0
+2021-08-01,3,Patriarca ,15.0
+2021-08-01,3,Artur Alvim,41.0
+2021-08-01,3,Bresser-Moóca ,21.0
+2021-08-01,3,Corinthians-Itaquera,58.0
+2021-09-01,3,Pedro II ,14.0
+2021-09-01,3,Sé,146.0
+2021-09-01,3,Palmeiras-Barra Funda,108.0
+2021-09-01,3,República,84.0
+2021-09-01,3,Marechal Deodoro ,21.0
+2021-09-01,3,Anhangabaú,37.0
+2021-09-01,3,Bresser-Moóca ,23.0
+2021-09-01,3,Santa Cecília ,19.0
+2021-09-01,3,Tatuapé,57.0
+2021-09-01,3,Belém ,28.0
+2021-09-01,3,Corinthians-Itaquera,60.0
+2021-09-01,3,Artur Alvim,43.0
+2021-09-01,3,Patriarca ,16.0
+2021-09-01,3,Brás,73.0
+2021-09-01,3,Vila Matilde ,19.0
+2021-09-01,3,Penha ,22.0
+2021-09-01,3,Guilhermina-Esperança ,15.0
+2021-09-01,3,Carrão ,32.0
+2021-10-01,3,Marechal Deodoro ,22.0
+2021-10-01,3,Santa Cecília ,19.0
+2021-10-01,3,Anhangabaú,39.0
+2021-10-01,3,Sé,155.0
+2021-10-01,3,Pedro II ,15.0
+2021-10-01,3,Brás,75.0
+2021-10-01,3,Bresser-Moóca ,24.0
+2021-10-01,3,Palmeiras-Barra Funda,115.0
+2021-10-01,3,Tatuapé,61.0
+2021-10-01,3,Belém ,29.0
+2021-10-01,3,Corinthians-Itaquera,62.0
+2021-10-01,3,Artur Alvim,45.0
+2021-10-01,3,Patriarca ,16.0
+2021-10-01,3,República,89.0
+2021-10-01,3,Vila Matilde ,20.0
+2021-10-01,3,Penha ,22.0
+2021-10-01,3,Carrão ,33.0
+2021-10-01,3,Guilhermina-Esperança ,16.0
+2021-11-01,3,Palmeiras-Barra Funda,123.0
+2021-11-01,3,Marechal Deodoro ,23.0
+2021-11-01,3,Santa Cecília ,21.0
+2021-11-01,3,República,96.0
+2021-11-01,3,Anhangabaú,42.0
+2021-11-01,3,Sé,166.0
+2021-11-01,3,Pedro II ,16.0
+2021-11-01,3,Brás,79.0
+2021-11-01,3,Belém ,31.0
+2021-11-01,3,Tatuapé,64.0
+2021-11-01,3,Carrão ,36.0
+2021-11-01,3,Vila Matilde ,21.0
+2021-11-01,3,Guilhermina-Esperança ,17.0
+2021-11-01,3,Patriarca ,18.0
+2021-11-01,3,Artur Alvim,48.0
+2021-11-01,3,Corinthians-Itaquera,66.0
+2021-11-01,3,Bresser-Moóca ,26.0
+2021-11-01,3,Penha ,24.0
+2021-12-01,3,Palmeiras-Barra Funda,118.0
+2021-12-01,3,Artur Alvim,45.0
+2021-12-01,3,Santa Cecília ,19.0
+2021-12-01,3,República,90.0
+2021-12-01,3,Anhangabaú,38.0
+2021-12-01,3,Sé,157.0
+2021-12-01,3,Pedro II ,14.0
+2021-12-01,3,Brás,81.0
+2021-12-01,3,Corinthians-Itaquera,66.0
+2021-12-01,3,Bresser-Moóca ,23.0
+2021-12-01,3,Tatuapé,65.0
+2021-12-01,3,Carrão ,32.0
+2021-12-01,3,Penha ,22.0
+2021-12-01,3,Vila Matilde ,20.0
+2021-12-01,3,Guilhermina-Esperança ,16.0
+2021-12-01,3,Patriarca ,17.0
+2021-12-01,3,Belém ,29.0
+2021-12-01,3,Marechal Deodoro ,21.0
+2023-01-01,3,Corinthians-Itaquera,64.0
+2023-01-01,3,Palmeiras-Barra Funda,119.0
+2023-01-01,3,Marechal Deodoro ,22.0
+2023-01-01,3,Santa Cecília ,19.0
+2023-01-01,3,República,101.0
+2023-01-01,3,Anhangabaú,42.0
+2023-01-01,3,Pedro II ,14.0
+2023-01-01,3,Brás,66.0
+2023-01-01,3,Bresser-Moóca ,24.0
+2023-01-01,3,Sé,164.0
+2023-01-01,3,Tatuapé,64.0
+2023-01-01,3,Carrão ,34.0
+2023-01-01,3,Penha ,22.0
+2023-01-01,3,Vila Matilde ,21.0
+2023-01-01,3,Guilhermina-Esperança ,17.0
+2023-01-01,3,Patriarca ,17.0
+2023-01-01,3,Artur Alvim,46.0
+2023-01-01,3,Belém ,31.0
+2023-02-01,3,Pedro II ,15.0
+2023-02-01,3,Corinthians-Itaquera,72.0
+2023-02-01,3,Palmeiras-Barra Funda,134.0
+2023-02-01,3,Marechal Deodoro ,25.0
+2023-02-01,3,República,111.0
+2023-02-01,3,Anhangabaú,48.0
+2023-02-01,3,Sé,189.0
+2023-02-01,3,Brás,72.0
+2023-02-01,3,Santa Cecília ,22.0
+2023-02-01,3,Belém ,36.0
+2023-02-01,3,Tatuapé,71.0
+2023-02-01,3,Carrão ,44.0
+2023-02-01,3,Penha ,26.0
+2023-02-01,3,Artur Alvim,53.0
+2023-02-01,3,Vila Matilde ,25.0
+2023-02-01,3,Guilhermina-Esperança ,20.0
+2023-02-01,3,Patriarca ,20.0
+2023-02-01,3,Bresser-Moóca ,29.0
+2023-03-01,3,Palmeiras-Barra Funda,138.0
+2023-03-01,3,Marechal Deodoro ,27.0
+2023-03-01,3,Santa Cecília ,23.0
+2023-03-01,3,República,118.0
+2023-03-01,3,Anhangabaú,50.0
+2023-03-01,3,Sé,199.0
+2023-03-01,3,Pedro II ,16.0
+2023-03-01,3,Brás,74.0
+2023-03-01,3,Belém ,38.0
+2023-03-01,3,Bresser-Moóca ,33.0
+2023-03-01,3,Artur Alvim,55.0
+2023-03-01,3,Patriarca ,21.0
+2023-03-01,3,Guilhermina-Esperança ,21.0
+2023-03-01,3,Corinthians-Itaquera,73.0
+2023-03-01,3,Penha ,28.0
+2023-03-01,3,Carrão ,51.0
+2023-03-01,3,Tatuapé,75.0
+2023-03-01,3,Vila Matilde ,26.0
+2023-04-01,3,Pedro II ,15.0
+2023-04-01,3,Palmeiras-Barra Funda,134.0
+2023-04-01,3,Marechal Deodoro ,26.0
+2023-04-01,3,Santa Cecília ,23.0
+2023-04-01,3,República,119.0
+2023-04-01,3,Anhangabaú,51.0
+2023-04-01,3,Sé,200.0
+2023-04-01,3,Brás,76.0
+2023-04-01,3,Artur Alvim,55.0
+2023-04-01,3,Belém ,37.0
+2023-04-01,3,Tatuapé,76.0
+2023-04-01,3,Carrão ,50.0
+2023-04-01,3,Penha ,28.0
+2023-04-01,3,Vila Matilde ,26.0
+2023-04-01,3,Guilhermina-Esperança ,21.0
+2023-04-01,3,Patriarca ,21.0
+2023-04-01,3,Corinthians-Itaquera,74.0
+2023-04-01,3,Bresser-Moóca ,32.0
+2023-05-01,3,Palmeiras-Barra Funda,
+2023-05-01,3,Marechal Deodoro ,
+2023-05-01,3,Santa Cecília ,
+2023-05-01,3,Anhangabaú,
+2023-05-01,3,Sé,
+2023-05-01,3,Pedro II ,
+2023-05-01,3,Brás,
+2023-05-01,3,República,
+2023-05-01,3,Belém ,
+2023-05-01,3,Tatuapé,
+2023-05-01,3,Carrão ,
+2023-05-01,3,Penha ,
+2023-05-01,3,Vila Matilde ,
+2023-05-01,3,Guilhermina-Esperança ,
+2023-05-01,3,Patriarca ,
+2023-05-01,3,Artur Alvim,
+2023-05-01,3,Corinthians-Itaquera,
+2023-05-01,3,Bresser-Moóca ,
+2023-06-01,3,Pedro II ,
+2023-06-01,3,Santa Cecília ,
+2023-06-01,3,Anhangabaú,
+2023-06-01,3,República,
+2023-06-01,3,Brás,
+2023-06-01,3,Sé,
+2023-06-01,3,Bresser-Moóca ,
+2023-06-01,3,Penha ,
+2023-06-01,3,Tatuapé,
+2023-06-01,3,Carrão ,
+2023-06-01,3,Vila Matilde ,
+2023-06-01,3,Guilhermina-Esperança ,
+2023-06-01,3,Patriarca ,
+2023-06-01,3,Artur Alvim,
+2023-06-01,3,Corinthians-Itaquera,
+2023-06-01,3,Belém ,
+2023-06-01,3,Palmeiras-Barra Funda,
+2023-06-01,3,Marechal Deodoro ,
+2023-07-01,3,Artur Alvim,
+2023-07-01,3,Corinthians-Itaquera,
+2023-07-01,3,Palmeiras-Barra Funda,
+2023-07-01,3,Marechal Deodoro ,
+2023-07-01,3,Santa Cecília ,
+2023-07-01,3,República,
+2023-07-01,3,Anhangabaú,
+2023-07-01,3,Sé,
+2023-07-01,3,Pedro II ,
+2023-07-01,3,Tatuapé,
+2023-07-01,3,Bresser-Moóca ,
+2023-07-01,3,Belém ,
+2023-07-01,3,Carrão ,
+2023-07-01,3,Penha ,
+2023-07-01,3,Vila Matilde ,
+2023-07-01,3,Guilhermina-Esperança ,
+2023-07-01,3,Brás,
+2023-07-01,3,Patriarca ,
+2023-08-01,3,Palmeiras-Barra Funda,
+2023-08-01,3,Marechal Deodoro ,
+2023-08-01,3,Santa Cecília ,
+2023-08-01,3,República,
+2023-08-01,3,Anhangabaú,
+2023-08-01,3,Sé,
+2023-08-01,3,Pedro II ,
+2023-08-01,3,Brás,
+2023-08-01,3,Belém ,
+2023-08-01,3,Tatuapé,
+2023-08-01,3,Carrão ,
+2023-08-01,3,Penha ,
+2023-08-01,3,Vila Matilde ,
+2023-08-01,3,Guilhermina-Esperança ,
+2023-08-01,3,Patriarca ,
+2023-08-01,3,Artur Alvim,
+2023-08-01,3,Bresser-Moóca ,
+2023-08-01,3,Corinthians-Itaquera,
+2023-09-01,3,Pedro II ,
+2023-09-01,3,Sé,
+2023-09-01,3,Palmeiras-Barra Funda,
+2023-09-01,3,República,
+2023-09-01,3,Marechal Deodoro ,
+2023-09-01,3,Anhangabaú,
+2023-09-01,3,Bresser-Moóca ,
+2023-09-01,3,Santa Cecília ,
+2023-09-01,3,Tatuapé,
+2023-09-01,3,Belém ,
+2023-09-01,3,Corinthians-Itaquera,
+2023-09-01,3,Artur Alvim,
+2023-09-01,3,Patriarca ,
+2023-09-01,3,Brás,
+2023-09-01,3,Vila Matilde ,
+2023-09-01,3,Penha ,
+2023-09-01,3,Guilhermina-Esperança ,
+2023-09-01,3,Carrão ,
+2023-10-01,3,Marechal Deodoro ,
+2023-10-01,3,Santa Cecília ,
+2023-10-01,3,Anhangabaú,
+2023-10-01,3,Sé,
+2023-10-01,3,Pedro II ,
+2023-10-01,3,Brás,
+2023-10-01,3,Bresser-Moóca ,
+2023-10-01,3,Palmeiras-Barra Funda,
+2023-10-01,3,Tatuapé,
+2023-10-01,3,Belém ,
+2023-10-01,3,Corinthians-Itaquera,
+2023-10-01,3,Artur Alvim,
+2023-10-01,3,Patriarca ,
+2023-10-01,3,República,
+2023-10-01,3,Vila Matilde ,
+2023-10-01,3,Penha ,
+2023-10-01,3,Carrão ,
+2023-10-01,3,Guilhermina-Esperança ,
+2023-11-01,3,Palmeiras-Barra Funda,
+2023-11-01,3,Marechal Deodoro ,
+2023-11-01,3,Santa Cecília ,
+2023-11-01,3,República,
+2023-11-01,3,Anhangabaú,
+2023-11-01,3,Sé,
+2023-11-01,3,Pedro II ,
+2023-11-01,3,Brás,
+2023-11-01,3,Belém ,
+2023-11-01,3,Tatuapé,
+2023-11-01,3,Carrão ,
+2023-11-01,3,Vila Matilde ,
+2023-11-01,3,Guilhermina-Esperança ,
+2023-11-01,3,Patriarca ,
+2023-11-01,3,Artur Alvim,
+2023-11-01,3,Corinthians-Itaquera,
+2023-11-01,3,Bresser-Moóca ,
+2023-11-01,3,Penha ,
+2023-12-01,3,Santa Cecília ,
+2023-12-01,3,Corinthians-Itaquera,
+2023-12-01,3,República,
+2023-12-01,3,Anhangabaú,
+2023-12-01,3,Sé,
+2023-12-01,3,Pedro II ,
+2023-12-01,3,Brás,
+2023-12-01,3,Bresser-Moóca ,
+2023-12-01,3,Marechal Deodoro ,
+2023-12-01,3,Belém ,
+2023-12-01,3,Carrão ,
+2023-12-01,3,Penha ,
+2023-12-01,3,Vila Matilde ,
+2023-12-01,3,Guilhermina-Esperança ,
+2023-12-01,3,Patriarca ,
+2023-12-01,3,Artur Alvim,
+2023-12-01,3,Tatuapé,
+2023-12-01,3,Palmeiras-Barra Funda,

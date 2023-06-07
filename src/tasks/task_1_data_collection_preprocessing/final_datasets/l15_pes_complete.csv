@@ -1,0 +1,265 @@
+month,line,station,dpea
+2021-01-01,15,Jardim Colonial,0.0
+2021-01-01,15,São Mateus,11.0
+2021-01-01,15,Fazenda da Juta,2.0
+2021-01-01,15,Sapopemba,5.0
+2021-01-01,15,Jardim Planalto,2.0
+2021-01-01,15,Vila Prudente,31.0
+2021-01-01,15,Vila Tolstói,3.0
+2021-01-01,15,Camilo Haddad,2.0
+2021-01-01,15,São Lucas,3.0
+2021-01-01,15,Oratório,3.0
+2021-01-01,15,Vila União,3.0
+2021-02-01,15,Vila Prudente,31.0
+2021-02-01,15,Jardim Colonial,0.0
+2021-02-01,15,São Mateus,12.0
+2021-02-01,15,Fazenda da Juta,2.0
+2021-02-01,15,Sapopemba,5.0
+2021-02-01,15,Jardim Planalto,3.0
+2021-02-01,15,Vila União,4.0
+2021-02-01,15,Vila Tolstói,3.0
+2021-02-01,15,Camilo Haddad,2.0
+2021-02-01,15,São Lucas,3.0
+2021-02-01,15,Oratório,3.0
+2021-03-01,15,Jardim Colonial,0.0
+2021-03-01,15,São Mateus,11.0
+2021-03-01,15,Fazenda da Juta,2.0
+2021-03-01,15,Sapopemba,4.0
+2021-03-01,15,Oratório,3.0
+2021-03-01,15,Vila União,3.0
+2021-03-01,15,Vila Tolstói,2.0
+2021-03-01,15,Camilo Haddad,2.0
+2021-03-01,15,São Lucas,2.0
+2021-03-01,15,Vila Prudente,27.0
+2021-03-01,15,Jardim Planalto,2.0
+2021-04-01,15,Jardim Colonial,0.0
+2021-04-01,15,São Mateus,10.0
+2021-04-01,15,Fazenda da Juta,2.0
+2021-04-01,15,Sapopemba,4.0
+2021-04-01,15,Vila Tolstói,2.0
+2021-04-01,15,Vila União,3.0
+2021-04-01,15,Vila Prudente,26.0
+2021-04-01,15,Jardim Planalto,2.0
+2021-04-01,15,Oratório,3.0
+2021-04-01,15,Camilo Haddad,2.0
+2021-04-01,15,São Lucas,2.0
+2021-05-01,15,Vila Prudente,29.0
+2021-05-01,15,Jardim Colonial,0.0
+2021-05-01,15,Fazenda da Juta,2.0
+2021-05-01,15,Sapopemba,5.0
+2021-05-01,15,São Mateus,12.0
+2021-05-01,15,Vila União,3.0
+2021-05-01,15,Vila Tolstói,3.0
+2021-05-01,15,Camilo Haddad,2.0
+2021-05-01,15,São Lucas,3.0
+2021-05-01,15,Oratório,3.0
+2021-05-01,15,Jardim Planalto,2.0
+2021-06-01,15,São Mateus,12.0
+2021-06-01,15,Oratório,3.0
+2021-06-01,15,São Lucas,3.0
+2021-06-01,15,Camilo Haddad,2.0
+2021-06-01,15,Vila Tolstói,3.0
+2021-06-01,15,Vila União,3.0
+2021-06-01,15,Jardim Planalto,3.0
+2021-06-01,15,Sapopemba,5.0
+2021-06-01,15,Fazenda da Juta,2.0
+2021-06-01,15,Vila Prudente,28.0
+2021-06-01,15,Jardim Colonial,0.0
+2021-07-01,15,Oratório,4.0
+2021-07-01,15,Vila Prudente,35.0
+2021-07-01,15,Jardim Colonial,0.0
+2021-07-01,15,São Mateus,13.0
+2021-07-01,15,Fazenda da Juta,2.0
+2021-07-01,15,Vila Tolstói,3.0
+2021-07-01,15,Jardim Planalto,3.0
+2021-07-01,15,Vila União,4.0
+2021-07-01,15,Camilo Haddad,2.0
+2021-07-01,15,Sapopemba,5.0
+2021-07-01,15,São Lucas,3.0
+2021-08-01,15,Jardim Colonial,0.0
+2021-08-01,15,São Mateus,14.0
+2021-08-01,15,Fazenda da Juta,3.0
+2021-08-01,15,Sapopemba,6.0
+2021-08-01,15,Jardim Planalto,3.0
+2021-08-01,15,Vila Tolstói,3.0
+2021-08-01,15,Camilo Haddad,2.0
+2021-08-01,15,São Lucas,3.0
+2021-08-01,15,Oratório,4.0
+2021-08-01,15,Vila Prudente,38.0
+2021-08-01,15,Vila União,4.0
+2021-09-01,15,São Mateus,14.0
+2021-09-01,15,Fazenda da Juta,3.0
+2021-09-01,15,Jardim Planalto,3.0
+2021-09-01,15,Jardim Colonial,0.0
+2021-09-01,15,Vila Tolstói,3.0
+2021-09-01,15,Vila União,4.0
+2021-09-01,15,Vila Prudente,41.0
+2021-09-01,15,Sapopemba,6.0
+2021-09-01,15,São Lucas,4.0
+2021-09-01,15,Oratório,4.0
+2021-09-01,15,Camilo Haddad,3.0
+2021-10-01,15,Jardim Colonial,0.0
+2021-10-01,15,Fazenda da Juta,3.0
+2021-10-01,15,Sapopemba,6.0
+2021-10-01,15,Jardim Planalto,3.0
+2021-10-01,15,São Mateus,15.0
+2021-10-01,15,Vila Tolstói,4.0
+2021-10-01,15,Camilo Haddad,3.0
+2021-10-01,15,São Lucas,4.0
+2021-10-01,15,Oratório,4.0
+2021-10-01,15,Vila Prudente,42.0
+2021-10-01,15,Vila União,4.0
+2021-11-01,15,Jardim Colonial,0.0
+2021-11-01,15,São Mateus,16.0
+2021-11-01,15,Fazenda da Juta,3.0
+2021-11-01,15,Sapopemba,7.0
+2021-11-01,15,Vila Tolstói,4.0
+2021-11-01,15,Vila União,5.0
+2021-11-01,15,Camilo Haddad,3.0
+2021-11-01,15,São Lucas,4.0
+2021-11-01,15,Oratório,5.0
+2021-11-01,15,Jardim Planalto,3.0
+2021-11-01,15,Vila Prudente,45.0
+2021-12-01,15,Jardim Colonial,0.0
+2021-12-01,15,Oratório,4.0
+2021-12-01,15,São Lucas,4.0
+2021-12-01,15,Camilo Haddad,3.0
+2021-12-01,15,Vila Tolstói,4.0
+2021-12-01,15,Vila União,4.0
+2021-12-01,15,Jardim Planalto,3.0
+2021-12-01,15,Sapopemba,6.0
+2021-12-01,15,Fazenda da Juta,3.0
+2021-12-01,15,Vila Prudente,41.0
+2021-12-01,15,São Mateus,15.0
+2023-01-01,15,Vila Prudente,46.0
+2023-01-01,15,Jardim Colonial,5.0
+2023-01-01,15,Oratório,5.0
+2023-01-01,15,São Lucas,4.0
+2023-01-01,15,Camilo Haddad,3.0
+2023-01-01,15,Vila Tolstói,4.0
+2023-01-01,15,Vila União,4.0
+2023-01-01,15,Jardim Planalto,4.0
+2023-01-01,15,Sapopemba,7.0
+2023-01-01,15,Fazenda da Juta,3.0
+2023-01-01,15,São Mateus,14.0
+2023-02-01,15,Vila Prudente,55.0
+2023-02-01,15,Jardim Colonial,5.0
+2023-02-01,15,Fazenda da Juta,4.0
+2023-02-01,15,Sapopemba,8.0
+2023-02-01,15,São Mateus,16.0
+2023-02-01,15,Vila União,5.0
+2023-02-01,15,Vila Tolstói,5.0
+2023-02-01,15,Oratório,6.0
+2023-02-01,15,Camilo Haddad,3.0
+2023-02-01,15,São Lucas,5.0
+2023-02-01,15,Jardim Planalto,4.0
+2023-03-01,15,Jardim Colonial,6.0
+2023-03-01,15,São Mateus,16.0
+2023-03-01,15,Fazenda da Juta,4.0
+2023-03-01,15,Sapopemba,8.0
+2023-03-01,15,Jardim Planalto,4.0
+2023-03-01,15,Vila Tolstói,5.0
+2023-03-01,15,Camilo Haddad,4.0
+2023-03-01,15,São Lucas,5.0
+2023-03-01,15,Oratório,6.0
+2023-03-01,15,Vila Prudente,57.0
+2023-03-01,15,Vila União,5.0
+2023-04-01,15,Fazenda da Juta,4.0
+2023-04-01,15,Jardim Colonial,6.0
+2023-04-01,15,São Mateus,16.0
+2023-04-01,15,Sapopemba,8.0
+2023-04-01,15,Oratório,6.0
+2023-04-01,15,Vila União,5.0
+2023-04-01,15,Vila Tolstói,5.0
+2023-04-01,15,Camilo Haddad,4.0
+2023-04-01,15,São Lucas,5.0
+2023-04-01,15,Vila Prudente,60.0
+2023-04-01,15,Jardim Planalto,4.0
+2023-05-01,15,Jardim Colonial,
+2023-05-01,15,Fazenda da Juta,
+2023-05-01,15,Sapopemba,
+2023-05-01,15,Jardim Planalto,
+2023-05-01,15,São Mateus,
+2023-05-01,15,Vila Tolstói,
+2023-05-01,15,Camilo Haddad,
+2023-05-01,15,São Lucas,
+2023-05-01,15,Oratório,
+2023-05-01,15,Vila Prudente,
+2023-05-01,15,Vila União,
+2023-06-01,15,Vila Prudente,
+2023-06-01,15,Oratório,
+2023-06-01,15,São Lucas,
+2023-06-01,15,Camilo Haddad,
+2023-06-01,15,Vila Tolstói,
+2023-06-01,15,Vila União,
+2023-06-01,15,Jardim Planalto,
+2023-06-01,15,Sapopemba,
+2023-06-01,15,Fazenda da Juta,
+2023-06-01,15,Jardim Colonial,
+2023-06-01,15,São Mateus,
+2023-07-01,15,Oratório,
+2023-07-01,15,Vila Prudente,
+2023-07-01,15,Jardim Colonial,
+2023-07-01,15,São Mateus,
+2023-07-01,15,Fazenda da Juta,
+2023-07-01,15,Vila Tolstói,
+2023-07-01,15,Jardim Planalto,
+2023-07-01,15,Vila União,
+2023-07-01,15,Camilo Haddad,
+2023-07-01,15,Sapopemba,
+2023-07-01,15,São Lucas,
+2023-08-01,15,Jardim Colonial,
+2023-08-01,15,São Mateus,
+2023-08-01,15,Fazenda da Juta,
+2023-08-01,15,Sapopemba,
+2023-08-01,15,Jardim Planalto,
+2023-08-01,15,Vila Tolstói,
+2023-08-01,15,Camilo Haddad,
+2023-08-01,15,São Lucas,
+2023-08-01,15,Oratório,
+2023-08-01,15,Vila Prudente,
+2023-08-01,15,Vila União,
+2023-09-01,15,São Mateus,
+2023-09-01,15,Fazenda da Juta,
+2023-09-01,15,Jardim Planalto,
+2023-09-01,15,Jardim Colonial,
+2023-09-01,15,Vila Tolstói,
+2023-09-01,15,Vila União,
+2023-09-01,15,Vila Prudente,
+2023-09-01,15,Sapopemba,
+2023-09-01,15,São Lucas,
+2023-09-01,15,Oratório,
+2023-09-01,15,Camilo Haddad,
+2023-10-01,15,Jardim Colonial,
+2023-10-01,15,Fazenda da Juta,
+2023-10-01,15,Sapopemba,
+2023-10-01,15,Jardim Planalto,
+2023-10-01,15,São Mateus,
+2023-10-01,15,Vila Tolstói,
+2023-10-01,15,Camilo Haddad,
+2023-10-01,15,São Lucas,
+2023-10-01,15,Oratório,
+2023-10-01,15,Vila Prudente,
+2023-10-01,15,Vila União,
+2023-11-01,15,Jardim Colonial,
+2023-11-01,15,São Mateus,
+2023-11-01,15,Fazenda da Juta,
+2023-11-01,15,Sapopemba,
+2023-11-01,15,Vila Tolstói,
+2023-11-01,15,Vila União,
+2023-11-01,15,Camilo Haddad,
+2023-11-01,15,São Lucas,
+2023-11-01,15,Oratório,
+2023-11-01,15,Jardim Planalto,
+2023-11-01,15,Vila Prudente,
+2023-12-01,15,Fazenda da Juta,
+2023-12-01,15,Vila Prudente,
+2023-12-01,15,Oratório,
+2023-12-01,15,São Lucas,
+2023-12-01,15,Camilo Haddad,
+2023-12-01,15,Vila Tolstói,
+2023-12-01,15,Vila União,
+2023-12-01,15,Jardim Planalto,
+2023-12-01,15,Sapopemba,
+2023-12-01,15,São Mateus,
+2023-12-01,15,Jardim Colonial,
