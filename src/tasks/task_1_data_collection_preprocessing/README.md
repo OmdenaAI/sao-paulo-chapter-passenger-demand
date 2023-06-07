@@ -1,8 +1,5 @@
 # task_1_data_collection_preprocessing
 
-### Rogerio Chaves Private Companies
->In this folder, there are data on passenger demand of the lines that have private administration: Linha 4 - Amarela, Linha 5 - Lilás, Linha 8 - Diamante and Linha 9 - Esmeralda.
-
 ### Entrada de Passageiros por Linha - 2022_7
 > There is a script for combining the four tables in one dataset - data_wrangling_endo.py
 
