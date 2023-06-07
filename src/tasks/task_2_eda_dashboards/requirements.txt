@@ -1,3 +1,0 @@
-pandas
-ydata-profiling
-sweetviz
