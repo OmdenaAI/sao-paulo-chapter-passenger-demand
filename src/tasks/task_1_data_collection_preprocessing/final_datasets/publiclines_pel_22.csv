@@ -1,4 +1,4 @@
-,month,total,business_day_mean,saturday_mean,sunday_mean,max,line
+,date,total,business_day_mean,saturday_mean,sunday_mean,max,line
 0,2022-01-01,13688000,542000,351000,190000,585000,1
 1,2022-02-01,14891000,634000,415000,196000,667000,1
 2,2022-03-01,18216000,706000,436000,198000,734000,1
