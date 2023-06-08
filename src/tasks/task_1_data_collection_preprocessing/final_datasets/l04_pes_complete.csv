@@ -1,0 +1,241 @@
+month,line,station,dpea
+2021-01-01,4,Luz,75000.0
+2021-01-01,4,São Paulo - Morumbi,26000.0
+2021-01-01,4,Butantã,22000.0
+2021-01-01,4,Pinheiros,55000.0
+2021-01-01,4,Faria Lima,16000.0
+2021-01-01,4,República,63000.0
+2021-01-01,4,Oscar Freire,14000.0
+2021-01-01,4,Higienópolis - Mackenzie,9000.0
+2021-01-01,4,Fradique Coutinho,9000.0
+2021-01-01,4,Paulista,53000.0
+2021-02-01,4,Luz,78000.0
+2021-02-01,4,República,66000.0
+2021-02-01,4,Higienópolis - Mackenzie,10000.0
+2021-02-01,4,Paulista,57000.0
+2021-02-01,4,Oscar Freire,15000.0
+2021-02-01,4,Fradique Coutinho,9000.0
+2021-02-01,4,Faria Lima,17000.0
+2021-02-01,4,Pinheiros,58000.0
+2021-02-01,4,Butantã,23000.0
+2021-02-01,4,São Paulo - Morumbi,27000.0
+2021-04-01,4,São Paulo - Morumbi,22000.0
+2021-04-01,4,Butantã,18000.0
+2021-04-01,4,Pinheiros,46000.0
+2021-04-01,4,Faria Lima,12000.0
+2021-04-01,4,Higienópolis - Mackenzie,7000.0
+2021-04-01,4,Oscar Freire,12000.0
+2021-04-01,4,Paulista,42000.0
+2021-04-01,4,República,50000.0
+2021-04-01,4,Fradique Coutinho,7000.0
+2021-04-01,4,Luz,61000.0
+2021-06-01,4,Faria Lima,16000.0
+2021-06-01,4,São Paulo - Morumbi,26000.0
+2021-06-01,4,Butantã,22000.0
+2021-06-01,4,Pinheiros,55000.0
+2021-06-01,4,Fradique Coutinho,9000.0
+2021-06-01,4,Paulista,50000.0
+2021-06-01,4,Higienópolis - Mackenzie,9000.0
+2021-06-01,4,República,61000.0
+2021-06-01,4,Luz,76000.0
+2021-06-01,4,Oscar Freire,14000.0
+2021-07-01,4,São Paulo - Morumbi,27000.0
+2021-07-01,4,Butantã,23000.0
+2021-07-01,4,Pinheiros,55000.0
+2021-07-01,4,Faria Lima,16000.0
+2021-07-01,4,Fradique Coutinho,9000.0
+2021-07-01,4,Oscar Freire,15000.0
+2021-07-01,4,Paulista,53000.0
+2021-07-01,4,Higienópolis - Mackenzie,9000.0
+2021-07-01,4,República,64000.0
+2021-07-01,4,Luz,80000.0
+2021-08-01,4,São Paulo - Morumbi,30000.0
+2021-08-01,4,Butantã,25000.0
+2021-08-01,4,Pinheiros,62000.0
+2021-08-01,4,Faria Lima,18000.0
+2021-08-01,4,Luz,86000.0
+2021-08-01,4,Oscar Freire,16000.0
+2021-08-01,4,Paulista,59000.0
+2021-08-01,4,Higienópolis - Mackenzie,11000.0
+2021-08-01,4,República,69000.0
+2021-08-01,4,Fradique Coutinho,10000.0
+2021-09-01,4,São Paulo - Morumbi,31000.0
+2021-09-01,4,Butantã,27000.0
+2021-09-01,4,Pinheiros,67000.0
+2021-09-01,4,Faria Lima,19000.0
+2021-09-01,4,Paulista,63000.0
+2021-09-01,4,Oscar Freire,16000.0
+2021-09-01,4,Fradique Coutinho,11000.0
+2021-09-01,4,Luz,92000.0
+2021-09-01,4,Higienópolis - Mackenzie,12000.0
+2021-09-01,4,República,73000.0
+2021-10-01,4,Pinheiros,71080.0
+2021-10-01,4,Luz,96200.0
+2021-10-01,4,República,77110.0
+2021-10-01,4,Higienópolis - Mackenzie,12930.0
+2021-10-01,4,Paulista,66490.0
+2021-10-01,4,Oscar Freire,17100.0
+2021-10-01,4,Fradique Coutinho,11440.0
+2021-10-01,4,Faria Lima,20610.0
+2021-10-01,4,Butantã,28330.0
+2021-10-01,4,São Paulo - Morumbi,33520.0
+2021-11-01,4,Butantã,30120.0
+2021-11-01,4,Higienópolis - Mackenzie,14410.0
+2021-11-01,4,Pinheiros,77690.0
+2021-11-01,4,São Paulo - Morumbi,35990.0
+2021-11-01,4,Faria Lima,22360.0
+2021-11-01,4,Luz,102100.0
+2021-11-01,4,Oscar Freire,18190.0
+2021-11-01,4,Paulista,72330.0
+2021-11-01,4,República,83660.0
+2021-11-01,4,Fradique Coutinho,12390.0
+2021-12-01,4,Pinheiros,70480.0
+2021-12-01,4,Oscar Freire,16280.000000000002
+2021-12-01,4,São Paulo - Morumbi,32800.0
+2021-12-01,4,Butantã,27310.0
+2021-12-01,4,Faria Lima,19250.0
+2021-12-01,4,Paulista,64310.0
+2021-12-01,4,Higienópolis - Mackenzie,11710.0
+2021-12-01,4,República,77030.0
+2021-12-01,4,Luz,93540.0
+2021-12-01,4,Fradique Coutinho,10920.0
+2022-01-01,4,São Paulo - Morumbi,28670.0
+2022-01-01,4,Pinheiros,62940.0
+2022-01-01,4,Faria Lima,18260.0
+2022-01-01,4,Fradique Coutinho,9880.0
+2022-01-01,4,Butantã,24310.0
+2022-01-01,4,Paulista,57800.0
+2022-01-01,4,Higienópolis - Mackenzie,10600.0
+2022-01-01,4,República,68470.0
+2022-01-01,4,Luz,86070.0
+2022-01-01,4,Oscar Freire,14790.0
+2022-02-01,4,Luz,98160.0
+2022-02-01,4,República,79680.0
+2022-02-01,4,Higienópolis - Mackenzie,13870.0
+2022-02-01,4,Paulista,69890.0
+2022-02-01,4,Oscar Freire,17680.0
+2022-02-01,4,Fradique Coutinho,11980.0
+2022-02-01,4,Faria Lima,22500.0
+2022-02-01,4,Pinheiros,72940.0
+2022-02-01,4,Butantã,28940.0
+2022-02-01,4,São Paulo - Morumbi,34830.0
+2022-04-01,4,Luz,114170.0
+2022-04-01,4,Higienópolis - Mackenzie,22210.0
+2022-04-01,4,Paulista,89550.0
+2022-04-01,4,Oscar Freire,19590.0
+2022-04-01,4,Fradique Coutinho,14060.0
+2022-04-01,4,Faria Lima,27560.0
+2022-04-01,4,Pinheiros,87170.0
+2022-04-01,4,Butantã,38810.0
+2022-04-01,4,São Paulo - Morumbi,41250.0
+2022-04-01,4,República,95650.0
+2022-06-01,4,Vila Sônia,34470.0
+2022-06-01,4,São Paulo - Morumbi,22300.0
+2022-06-01,4,Butantã,34390.0
+2022-06-01,4,Pinheiros,87800.0
+2022-06-01,4,Faria Lima,30330.0
+2022-06-01,4,Paulista,87610.0
+2022-06-01,4,Oscar Freire,20730.0
+2022-06-01,4,Higienópolis - Mackenzie,18500.0
+2022-06-01,4,República,94340.0
+2022-06-01,4,Luz,113850.0
+2022-06-01,4,Fradique Coutinho,15210.0
+2022-07-01,4,Pinheiros,88440.0
+2022-07-01,4,Vila Sônia,33900.0
+2022-07-01,4,Butantã,31480.0
+2022-07-01,4,Faria Lima,30300.0
+2022-07-01,4,São Paulo - Morumbi,21100.0
+2022-07-01,4,Oscar Freire,20680.0
+2022-07-01,4,Paulista,83570.0
+2022-07-01,4,Higienópolis - Mackenzie,15280.0
+2022-07-01,4,República,93310.0
+2022-07-01,4,Luz,115080.0
+2022-07-01,4,Fradique Coutinho,15280.0
+2022-08-01,4,São Paulo - Morumbi,22600.0
+2022-08-01,4,Butantã,34800.0
+2022-08-01,4,Pinheiros,93980.0
+2022-08-01,4,Faria Lima,32479.999999999996
+2022-08-01,4,Vila Sônia,37490.0
+2022-08-01,4,Oscar Freire,21810.0
+2022-08-01,4,Paulista,95270.0
+2022-08-01,4,Higienópolis - Mackenzie,25050.0
+2022-08-01,4,República,98970.0
+2022-08-01,4,Luz,121010.0
+2022-08-01,4,Fradique Coutinho,16090.0
+2022-09-01,4,Vila Sônia,38750.0
+2022-09-01,4,São Paulo - Morumbi,22290.0
+2022-09-01,4,Butantã,36290.0
+2022-09-01,4,Pinheiros,97370.0
+2022-09-01,4,Faria Lima,32590.000000000004
+2022-09-01,4,Fradique Coutinho,16340.0
+2022-09-01,4,Paulista,99420.0
+2022-09-01,4,Higienópolis - Mackenzie,25730.0
+2022-09-01,4,República,102740.0
+2022-09-01,4,Luz,126390.0
+2022-09-01,4,Oscar Freire,21510.0
+2022-10-01,4,Vila Sônia,39620.0
+2022-10-01,4,São Paulo - Morumbi,22260.0
+2022-10-01,4,Butantã,37060.0
+2022-10-01,4,Faria Lima,32940.0
+2022-10-01,4,Pinheiros,99580.0
+2022-10-01,4,Oscar Freire,22120.0
+2022-10-01,4,Paulista,100280.0
+2022-10-01,4,Higienópolis - Mackenzie,24110.0
+2022-10-01,4,República,104290.0
+2022-10-01,4,Luz,127550.0
+2022-10-01,4,Fradique Coutinho,16610.0
+2022-11-01,4,Vila Sônia,38950.0
+2022-11-01,4,São Paulo - Morumbi,21690.0
+2022-11-01,4,Butantã,35770.0
+2022-11-01,4,Pinheiros,98300.0
+2022-11-01,4,Faria Lima,32240.000000000004
+2022-11-01,4,Fradique Coutinho,16610.0
+2022-11-01,4,Oscar Freire,22130.0
+2022-11-01,4,Paulista,96550.0
+2022-11-01,4,Higienópolis - Mackenzie,23680.0
+2022-11-01,4,República,102120.0
+2022-11-01,4,Luz,125180.0
+2022-12-01,4,Vila Sônia,35770.0
+2022-12-01,4,São Paulo - Morumbi,19280.0
+2022-12-01,4,Butantã,29870.0
+2022-12-01,4,Pinheiros,88830.0
+2022-12-01,4,Faria Lima,29140.0
+2022-12-01,4,Luz,114430.0
+2022-12-01,4,Oscar Freire,20400.0
+2022-12-01,4,Paulista,83740.0
+2022-12-01,4,Higienópolis - Mackenzie,15960.0
+2022-12-01,4,República,92740.0
+2022-12-01,4,Fradique Coutinho,14850.0
+2023-01-01,4,Vila Sônia,34540.0
+2023-01-01,4,São Paulo - Morumbi,18260.0
+2023-01-01,4,Butantã,27170.0
+2023-01-01,4,Pinheiros,87150.0
+2023-01-01,4,Faria Lima,28650.0
+2023-01-01,4,Paulista,82550.0
+2023-01-01,4,Oscar Freire,19870.0
+2023-01-01,4,Higienópolis - Mackenzie,14580.0
+2023-01-01,4,República,90080.0
+2023-01-01,4,Luz,113580.0
+2023-01-01,4,Fradique Coutinho,14560.0
+2023-02-01,4,Vila Sônia,38150.0
+2023-02-01,4,Butantã,29850.0
+2023-02-01,4,Pinheiros,91470.0
+2023-02-01,4,Faria Lima,30310.0
+2023-02-01,4,São Paulo - Morumbi,20170.0
+2023-02-01,4,Oscar Freire,20930.0
+2023-02-01,4,Paulista,92870.0
+2023-02-01,4,Higienópolis - Mackenzie,23500.0
+2023-02-01,4,República,96670.0
+2023-02-01,4,Luz,120290.0
+2023-02-01,4,Fradique Coutinho,16090.0
+2023-04-01,4,São Paulo - Morumbi,23370.0
+2023-04-01,4,Butantã,38630.0
+2023-04-01,4,Pinheiros,104830.0
+2023-04-01,4,Faria Lima,34540.0
+2023-04-01,4,Paulista,105550.0
+2023-04-01,4,Oscar Freire,24020.0
+2023-04-01,4,Higienópolis - Mackenzie,27480.0
+2023-04-01,4,República,106200.0
+2023-04-01,4,Luz,135690.0
+2023-04-01,4,Fradique Coutinho,17180.0
+2023-04-01,4,Vila Sônia,43980.0
