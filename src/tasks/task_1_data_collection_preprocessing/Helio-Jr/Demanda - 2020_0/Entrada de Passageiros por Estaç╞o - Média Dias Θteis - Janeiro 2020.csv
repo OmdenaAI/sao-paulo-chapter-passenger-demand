@@ -1,0 +1,39 @@
+INFORMAÇÕES SOBRE A DEMANDA - JANEIRO/2020;;;;;;;
+;;;;;;;
+DEMANDA DE PASSAGEIROS POR ESTAÇÃO* -  MÉDIA DOS DIAS ÚTEIS (em milhares);;;;;;;
+;;;;;;;
+Linha 1 - Azul  ;;Linha 2 - Verde  ;;Linha 3 - Vermelha  ;;Linha 15 - Prata;
+Estação ;Entradas ;Estação ;Entradas;Estação ;Entradas;Estação ;Entradas
+Jabaquara;80;Vila Prudente5;68;Corinthians-Itaquera;81;Vila Prudente6;51
+Conceição ;35;Tamanduateí;72;Artur Alvim;57;Oratório;6
+São Judas ;18;Sacomã;41;Patriarca ;22;São Lucas;5
+Saúde ;31;Alto do Ipiranga ;18;Guilhermina-Esperança ;22;Camilo Haddad;3
+Praça da Árvore ;19;Santos-Imigrantes ;15;Vila Matilde ;26;Vila Tolstói;4
+Santa Cruz;102;Chácara Klabin ;72;Penha ;30;Vila União;5
+Vila Mariana ;19;Ana Rosa²;67;Carrão ;42;Jardim Planalto;4
+Ana Rosa¹;79;Paraíso²;70;Tatuapé;79;Sapopemba;6
+Paraíso¹;100;Brigadeiro ;58;Belém ;39;Fazenda da Juta;3
+Vergueiro ;27;Trianon-Masp ;52;Bresser-Moóca ;31;São Mateus;12
+São Joaquim ;23;Consolação;111;Brás;91;- ;- 
+Liberdade ;22;Clínicas ;22;Pedro II ;21;- ;- 
+Sé³;202;Santuário N.S. de Fátima-Sumaré ;12;Sé4;231;- ;- 
+São Bento;68;Vila Madalena;24;Anhangabaú;60;- ;- 
+Luz;134;- ;- ;República;146;- ;- 
+Tiradentes ;13;- ;- ;Santa Cecília ;28;- ;- 
+Armênia ;25;- ;- ;Marechal Deodoro ;31;- ;- 
+Portuguesa-Tietê ;59;- ;- ;Palmeiras-Barra Funda;176;- ;- 
+Carandiru ;13;- ;- ;- ;- ;- ;- 
+Santana ;57;- ;- ;- ;- ;- ;- 
+Jardim São Paulo-Ayrton Senna;13;- ;- ;- ;- ;- ;- 
+Parada Inglesa ;14;- ;- ;- ;- ;- ;- 
+Tucuruvi ;63;- ;- ;- ;- ;- ;- 
+TOTAL;1214;TOTAL;702;TOTAL;1213;TOTAL;98
+*Corresponde à soma das entradas pelas linhas de bloqueios com as transferências entre linhas nas Estações Sé, Paraíso, Ana Rosa e Vila Prudente.;;;;;;;
+¹ Corresponde à soma dos usuários que embarcaram na Linha 1-Azul com as transferências da Linha 2-Verde;;;;;;;
+² Corresponde à soma dos usuários que embarcaram na Linha 2-Verde com as transferências da Linha 1-Azul;;;;;;;
+3 Corresponde à soma dos usuários que embarcaram na Linha 1-Azul com as transferências da Linha 3-Vermelha;;;;;;;
+4 Corresponde à soma dos usuários que embarcaram na Linha 3-Vermelha com as transferências da Linha 1-Azul;;;;;;;
+5 Corresponde à soma dos usuários que embarcaram na Linha 2-Verde com as transferências da Linha 15-Prata;;;;;;;
+6 Corresponde à soma dos usuários que embarcaram na Linha 15-Prata com as transferências da Linha 2-Verde;;;;;;;
+            Dez estações de maior movimento (Considerou-se a somatória dos valores das estações Paraíso e Ana Rosa);;;;;;;
+Fonte: Diretoria de Operações / Coordenadoria de Informações Gerenciais e Estudos Estratégicos - 19/02/2020;;;;;;;

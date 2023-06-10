@@ -1,0 +1,5 @@
+pandas
+ydata-profiling
+sweetviz
+pycaret
+prophet
