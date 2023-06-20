@@ -1,4 +1,4 @@
-year_month,line,total,MDU (Business Days Mean),MSD (Saturdays Mean),MDO (Sundays Mean),MAX (Daily Max)
+date,line,total,business_day_mean,saturday_mean,sunday_mean,max
 2017-01-01,4,14678000.0,590000.0,301000.0,166000.0,654000.0
 2017-01-01,1,29569000.0,1161000.0,704000.0,430000.0,1278000.0
 2017-01-01,2,13476000.0,554000.0,259000.0,165000.0,617000.0
