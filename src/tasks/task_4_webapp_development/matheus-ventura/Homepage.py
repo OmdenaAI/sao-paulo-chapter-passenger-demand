@@ -1,10 +1,33 @@
 import streamlit as st
+from PIL import Image
 
 st.set_page_config(
-    page_title='Homepage'
+    page_title='Homepage',
+    layout='wide',
+    page_icon='images/omdena_logo.png',
+    menu_items={'Get Help': 'https://omdena.com/local-chapters/sao-paulo-brazil-chapter/',
+                'Report a bug': 'https://omdena.com/local-chapters/sao-paulo-brazil-chapter/',
+                'About': '###### Developed by Omdena São Paulo, Brazil Local Chapter'}
 )
 
-st.write('# Omdena São Paulo, Brazil Chapter:Monitoring and Predicting Subway Passenger Demand in São Paulo City')
+
+st.markdown("""
+    <style>
+    footer {visibility: hidden;}
+    </style>
+    """, unsafe_allow_html=True
+)
+
+st.sidebar.image('images/Omdena-Banner.png')
+
+col1, col2 = st.columns((1, 2))
+
+with col1:
+    logo = Image.open('images/logo_sao_paulo_chapter.png')
+    st.image(logo)
+
+with col2:
+    st.write('# Omdena São Paulo, Brazil Chapter: Monitoring and Predicting Subway Passenger Demand in São Paulo City')
 
 st.markdown(
     """
@@ -18,5 +41,6 @@ st.markdown(
     to help the people and community decision-makers to understand the
     evolution and forecast the passenger demand for better urban planning.
     
+    ## Passenger demand for the next 3 months
     """
 )
