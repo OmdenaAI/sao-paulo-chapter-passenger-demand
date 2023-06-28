@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 st.set_page_config(
-    page_title='Homepage',
+    page_title='Homepage - Omdena São Paulo Brazil Chapter',
     layout='wide',
     page_icon='images/omdena_logo.png',
     menu_items={'Get Help': 'https://omdena.com/local-chapters/sao-paulo-brazil-chapter/',
@@ -10,13 +10,6 @@ st.set_page_config(
                 'About': '###### Developed by Omdena São Paulo, Brazil Local Chapter'}
 )
 
-
-st.markdown("""
-    <style>
-    footer {visibility: hidden;}
-    </style>
-    """, unsafe_allow_html=True
-)
 
 st.sidebar.image('images/Omdena-Banner.png')
 
@@ -40,7 +33,16 @@ st.markdown(
     There is no open monitoring system, dashboards, or predictive models
     to help the people and community decision-makers to understand the
     evolution and forecast the passenger demand for better urban planning.
-    
-    ## Passenger demand for the next 3 months
+
+    São Paulo city is the capital of the Brazilian state with the same name.
+    It is the most populous city in Brazil and the fourth most populous in the world.
+    São Paulo Metropole or the Great São Paulo Area joins 39 cities with around
+    27 million people and has different urban problems, including public
+    transportation planning.
+
+    ## Project goals
+    In this project, the Omdena São Paulo, Brazil Chapter team aims to develop
+    a monitoring and predicting system for subway passenger demand using
+    machine learning.
     """
 )
