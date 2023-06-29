@@ -9,12 +9,6 @@ st.set_page_config(
                 'About': '###### Developed by Omdena São Paulo, Brazil Local Chapter'}
 )
 
-st.markdown("""
-    <style>
-    footer {visibility: hidden;}
-    </style>
-    """, unsafe_allow_html=True
-)
 
 st.sidebar.image('images/Omdena-Banner.png')
 
@@ -35,9 +29,12 @@ st.write(
     and dashboards developed by the team members at [Dashboards](Dashboards).
 
     ## Model Development and Training
-
+    In this task the team discussed the algorithms possibilities based on the data available,
+    SARIMA model presented better results.
 
     ## Web App Development
+    This webapp was developed to showcase the final results and predictions achieved with the
+    model created, as well to present the hard work of the team through the project.
      
     """
 )
