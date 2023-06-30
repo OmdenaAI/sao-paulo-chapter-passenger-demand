@@ -30,11 +30,12 @@ st.write(
 
     ## Model Development and Training
     In this task the team discussed the algorithms possibilities based on the data available,
-    SARIMA model presented better results.
+    SARIMA model presented better results. More info at [Modelling](Modelling).
 
     ## Web App Development
     This webapp was developed to showcase the final results and predictions achieved with the
-    model created, as well to present the hard work of the team through the project.
+    model created, as well to present the hard work of the team through the project. Learn more
+    about the [team members](Team).
      
     """
 )

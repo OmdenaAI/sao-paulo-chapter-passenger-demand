@@ -86,3 +86,17 @@ with col2:
             """)
         st.button('Open link', on_click=open_page, args=('https://app.powerbi.com/view?r=eyJrIjoiYjVhNTVlNmYtY2NiNy00NWIzLWI2NzUtMjAxMjI0OGQ5YjAxIiwidCI6ImFiNjViNmQzLWU5ZDEtNDRhOS05OTAzLTEyMTE4NzZlYzY5ZSJ9',), key=4)
 
+
+with col3:
+    with st.container():
+        st.write('### [Interval Between Trains](https://ibt-metro-sp-o0jwk9mpzh.streamlit.app/)')
+        st.markdown(
+            """
+            Analysis of interval between trains for the public lines.
+
+            Developed by Matheus Ventura.
+            """)
+        st.button('Open link', on_click=open_page, args=('https://ibt-metro-sp-o0jwk9mpzh.streamlit.app/',), key=5)
+
+    st.write('---')
+
