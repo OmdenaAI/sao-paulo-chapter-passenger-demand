@@ -100,3 +100,13 @@ with col3:
 
     st.write('---')
 
+    with st.container():
+        st.write('### [Subway Passenger Demand in São Paulo City - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTRmZGY0NzItYWYxMC00ODY3LThlMDUtNjI5NzJiZWZiMjQ5IiwidCI6IjY1YzgwM2ExLThmYTYtNGVkOC04MTllLWUzODMyMDNkMDBkNSJ9)')
+        st.markdown(
+            """
+            Analysis of passengers transported and passengers entrance.
+
+            Developed by Indrajith C.
+            """)
+        st.button('Open link', on_click=open_page, args=('https://app.powerbi.com/view?r=eyJrIjoiYTRmZGY0NzItYWYxMC00ODY3LThlMDUtNjI5NzJiZWZiMjQ5IiwidCI6IjY1YzgwM2ExLThmYTYtNGVkOC04MTllLWUzODMyMDNkMDBkNSJ9',), key=6)
+
