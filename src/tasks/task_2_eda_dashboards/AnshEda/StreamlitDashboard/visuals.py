@@ -3,6 +3,7 @@ import folium
 import os
 from streamlit_folium import st_folium 
 import streamlit as st 
+import networkx as nx
 
 pes_df = pd.read_csv(r"C:\OMDENA\Project\sao-paulo-chapter-passenger-demand\src\tasks\task_2_eda_dashboards\data\alllines_pes_complete.csv")
 pes_df['date'] = pd.to_datetime(pes_df['date'])
@@ -136,7 +137,7 @@ line_colors = {
     '1': 'blue',
     '2': 'green',
     '3': 'red',
-    '4': 'black',
+    '4': 'yellow',
     '5': 'purple',
     '15': 'gray'
 }
@@ -190,6 +191,17 @@ def ShowMap(month,year,line):
                         weight=3,
                         opacity=0.7
                     ).add_to(map_sp)
+                    
+                folium.CircleMarker(
+                    location=next_station['coordinates'],
+                    radius= (dpea_value.values[0]/3500),
+                    color = color,
+                    fill = True,
+                    fill_color = color,
+                    tooltip=f"Station: {next_station['station']}<br>Passengers: {dpea_value.values[0]}"
+                    # popup=current_station['station'],
+                    # icon=folium.Icon(color=color)
+                ).add_to(map_sp)
             st_map = st_folium(map_sp,width =1000,height = 700)
     else :
         
@@ -230,8 +242,111 @@ def ShowMap(month,year,line):
                         weight=3,
                         opacity=0.7
                     ).add_to(map_sp)
+            folium.CircleMarker(
+            location=next_station['coordinates'],
+            radius= (dpea_value.values[0]/3500),
+            color = color,
+            fill = True,
+            fill_color = color,
+             tooltip=f"Station: {next_station['station']}<br>Passengers: {dpea_value.values[0]}"
+            # popup=current_station['station'],
+            # icon=folium.Icon(color=color)
+                ).add_to(map_sp)
             st_map = st_folium(map_sp,width =1000,height = 700)
             
 
+
+def CreateGraph():
+    avg_time_df = pd.read_csv(r"C:\OMDENA\Project\sao-paulo-chapter-passenger-demand\src\tasks\task_3_model_training_validation\Ansh_models\metro_lines_info.csv")
+    G = nx.Graph()
+    # Add nodes for each metro station
+    for line, stations in metro_stations.items():
+        for station in stations:
+            station_name = station['station']
+            filtered_df = pes_df[(pes_df['station'].str.strip()==station_name)&(pes_df['date'].dt.year==2021)&(pes_df['date'].dt.month==1)]
+            dpea_value = filtered_df['dpea']
+            passengers = dpea_value.values[0]
+            G.add_node(station_name, passengers=passengers,line = f"{line}")
+    # Add edges between adjacent stations
+    for line, stations in metro_stations.items():
+        for i in range(len(stations) - 1):
+            station1 = stations[i]['station']
+            station2 = stations[i + 1]['station']
+            time = avg_time_df[avg_time_df['Line']==int(line)]
+            # print(time,"\n-------")
+            avg_time = time['Avg Time between Stations (min)'].iloc[0]
+            # print(avg_time,"\n-------")
+            t = avg_time
+            G.add_edge(station1, station2, weight = t)
+    return G
+# def TakeDestinations():
+#     metro_sta = list(pes_df['station'].unique())
+#     st.sidebar.header("Choose Stations")
+#     start_station = st.sidebar.selectbox("Select start station", metro_sta)
+#     end_station = st.sidebar.selectbox("Select end station", metro_sta)
+#     FindShortest_path(start_station.strip(),end_station.strip())
     
 
+def FindShortest_path(start_station,end_station):
+    G = CreateGraph()
+    # Check if the start and end stations are valid
+    if start_station not in G.nodes() or end_station not in G.nodes():
+        print("Invalid start or end station.")
+    else:
+        # Calculate the shortest path
+        shortest_path = nx.dijkstra_path(G, start_station, end_station, weight='weight')
+        print("Shortest Path:", shortest_path)
+
+        # Create a map centered around São Paulo
+        short_map = folium.Map(location=[-23.5505, -46.6333], zoom_start=12)
+        
+        for i in range(len(shortest_path)-1):
+            current_station = shortest_path[i]
+            next_station = shortest_path[i+1]
+            for line, stations in metro_stations.items():
+                for station in stations:
+                    if station['station'] == current_station:
+                        coordinates_current = station['coordinates']
+                        break
+            for line, stations in metro_stations.items():
+                for station in stations:
+                    if station['station'] == next_station:
+                        coordinates_next = station['coordinates']
+                        break
+        
+                
+            folium.CircleMarker(
+                    location=coordinates_current,
+                    radius= (G.nodes[current_station]['passengers'])/3500,
+                    color = line_colors[G.nodes[current_station]['line']],
+                    fill = True,
+                    fill_color = line_colors[G.nodes[current_station]['line']],
+                    tooltip=f"Station: {current_station}<br>Passengers: {G.nodes[current_station]['passengers']}"
+                    # popup=current_station['station'],
+                    # icon=folium.Icon(color=color)
+                ).add_to(short_map)
+                
+                # Create a line connecting the current station and the next station
+            folium.PolyLine(
+                    locations=[coordinates_current,coordinates_next],
+                    color=line_colors[G.nodes[current_station]['line']],
+                    weight=3,
+                    opacity=0.7
+                ).add_to(short_map)
+        folium.CircleMarker(
+                        location=coordinates_next,
+                        radius= (G.nodes[next_station]['passengers'])/3500,
+                        color = line_colors[G.nodes[next_station]['line']],
+                        fill = True,
+                        fill_color = line_colors[G.nodes[current_station]['line']],
+                        tooltip=f"Station: {next_station}<br>Passengers: {G.nodes[next_station]['passengers']}"
+                        # popup=current_station['station'],
+                        # icon=folium.Icon(color=color)
+                    ).add_to(short_map)       
+        st_map = st_folium(short_map,width =1000,height = 700)
+        
+def ShowEDA():
+    pass
+        
+
+     
