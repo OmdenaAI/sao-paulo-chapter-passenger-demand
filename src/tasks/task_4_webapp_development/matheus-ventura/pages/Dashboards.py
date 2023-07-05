@@ -12,7 +12,7 @@ def open_page(url):
 
 
 st.set_page_config(
-    page_title='Dashboards',
+    page_title='Dashboards - Omdena São Paulo Brazil Chapter',
     layout='wide',
     page_icon='images/omdena_logo.png',
     menu_items={'Get Help': 'https://omdena.com/local-chapters/sao-paulo-brazil-chapter/',
@@ -41,7 +41,7 @@ col1, col2, col3 = st.columns((1, 1 ,1))
 
 with col1:
     with st.container():
-        st.write('### Analysis of demand over the years')
+        st.write('### [Analysis of demand over the years](https://be4lima-omdena-sao-paulo-chapter-streamlit-dashboard-6da1br.streamlit.app/)')
         st.markdown(
             """
             Analysis of pre and pos COVID demand.
@@ -53,7 +53,7 @@ with col1:
     st.markdown('---')
 
     with st.container():
-        st.write('### Passengers per Station and Shortest Distance')
+        st.write('### [Passengers per Station and Shortest Distance](https://anshcs-sau-paulo-metro-demand-eda-streamlitdashboardapp-gwneql.streamlit.app/)')
         st.markdown(
             """
             Plots for passengers entries at each station and shortest route between stations.
@@ -64,7 +64,7 @@ with col1:
 
 with col2:
     with st.container():
-        st.write('### Passengers transported demand by lines')
+        st.write('### [Passengers transported demand by lines](https://rogerio-chaves-eda-sao-paulo-subway-app-fu49dh.streamlit.app/)')
         st.markdown(
             """
             Analysis of demand on business and weekend days.
@@ -77,7 +77,7 @@ with col2:
     st.write('---')
 
     with st.container():
-        st.write('### Exploratory Data Analysis - Power BI')
+        st.write('### [Exploratory Data Analysis - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjVhNTVlNmYtY2NiNy00NWIzLWI2NzUtMjAxMjI0OGQ5YjAxIiwidCI6ImFiNjViNmQzLWU5ZDEtNDRhOS05OTAzLTEyMTE4NzZlYzY5ZSJ9)')
         st.markdown(
             """
             Analysis of demand by year.
@@ -85,4 +85,28 @@ with col2:
             Developed by Beatriz Lima.
             """)
         st.button('Open link', on_click=open_page, args=('https://app.powerbi.com/view?r=eyJrIjoiYjVhNTVlNmYtY2NiNy00NWIzLWI2NzUtMjAxMjI0OGQ5YjAxIiwidCI6ImFiNjViNmQzLWU5ZDEtNDRhOS05OTAzLTEyMTE4NzZlYzY5ZSJ9',), key=4)
+
+
+with col3:
+    with st.container():
+        st.write('### [Interval Between Trains](https://ibt-metro-sp-o0jwk9mpzh.streamlit.app/)')
+        st.markdown(
+            """
+            Analysis of interval between trains for the public lines.
+
+            Developed by Matheus Ventura.
+            """)
+        st.button('Open link', on_click=open_page, args=('https://ibt-metro-sp-o0jwk9mpzh.streamlit.app/',), key=5)
+
+    st.write('---')
+
+    with st.container():
+        st.write('### [Subway Passenger Demand in São Paulo City - Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTRmZGY0NzItYWYxMC00ODY3LThlMDUtNjI5NzJiZWZiMjQ5IiwidCI6IjY1YzgwM2ExLThmYTYtNGVkOC04MTllLWUzODMyMDNkMDBkNSJ9)')
+        st.markdown(
+            """
+            Analysis of passengers transported and passengers entrance.
+
+            Developed by Indrajith C.
+            """)
+        st.button('Open link', on_click=open_page, args=('https://app.powerbi.com/view?r=eyJrIjoiYTRmZGY0NzItYWYxMC00ODY3LThlMDUtNjI5NzJiZWZiMjQ5IiwidCI6IjY1YzgwM2ExLThmYTYtNGVkOC04MTllLWUzODMyMDNkMDBkNSJ9',), key=6)
 

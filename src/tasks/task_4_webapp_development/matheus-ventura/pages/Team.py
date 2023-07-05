@@ -9,19 +9,12 @@ st.set_page_config(
                 'About': '###### Developed by Omdena São Paulo, Brazil Local Chapter'}
 )
 
-st.markdown("""
-    <style>
-    footer {visibility: hidden;}
-    </style>
-    """, unsafe_allow_html=True
-)
-
 st.sidebar.image('images/Omdena-Banner.png')
 
 st.markdown('# Team')
 
 st.write(
     """
-    Page to add more info about the project and the team.
+    Omdena São Paulo Brazil Chapter
     """
 )

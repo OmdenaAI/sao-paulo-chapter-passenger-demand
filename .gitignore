@@ -130,3 +130,6 @@ dmypy.json
 src/tasks/.DS_Store
 src/.DS_Store
 .DS_Store
+
+# MLFlow
+mlruns/
