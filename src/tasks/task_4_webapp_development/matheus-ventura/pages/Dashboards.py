@@ -33,7 +33,7 @@ st.markdown('# Dashboards')
 
 st.write(
     """
-    Page for dashboards from all volunteers.
+    Page for dashboards developed by team members.
     """
 )
 
@@ -62,6 +62,18 @@ with col1:
             """)
         st.button('Open link', on_click=open_page, args=('https://anshcs-sau-paulo-metro-demand-eda-streamlitdashboardapp-gwneql.streamlit.app/',), key=2)
 
+    st.markdown('---')
+
+    with st.container():
+            st.write('### [Subway Passenger Demand - Tableu](https://public.tableau.com/app/profile/vandriele.barbosa/viz/Subway_passenger_demand/home?publish=yes)')
+            st.markdown(
+                """
+                Plots for Total passenger demand, Business, Saturday, Sunday Means and Daily Max.
+
+                Developed by Vandriele Barbosa.
+                """)
+            st.button('Open link', on_click=open_page, args=('https://public.tableau.com/app/profile/vandriele.barbosa/viz/Subway_passenger_demand/home?publish=yes',), key=7)
+
 with col2:
     with st.container():
         st.write('### [Passengers transported demand by lines](https://rogerio-chaves-eda-sao-paulo-subway-app-fu49dh.streamlit.app/)')
@@ -85,6 +97,19 @@ with col2:
             Developed by Beatriz Lima.
             """)
         st.button('Open link', on_click=open_page, args=('https://app.powerbi.com/view?r=eyJrIjoiYjVhNTVlNmYtY2NiNy00NWIzLWI2NzUtMjAxMjI0OGQ5YjAxIiwidCI6ImFiNjViNmQzLWU5ZDEtNDRhOS05OTAzLTEyMTE4NzZlYzY5ZSJ9',), key=4)
+
+    st.markdown('---')
+
+    with st.container():
+            st.write('### [Interactive Data Analysis](https://sp-trainway.streamlit.app/)')
+            st.markdown(
+                """
+                Data visualization and interactive plots.
+
+                Developed by R. Santhosh Kumar.
+                """)
+            st.button('Open link', on_click=open_page, args=('https://sp-trainway.streamlit.app/',), key=8)
+
 
 
 with col3:
